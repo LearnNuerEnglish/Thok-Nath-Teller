@@ -339,12 +339,14 @@ function monthText(d) {
 }
 
 // Other ways of telling the minutes, from the Thok Nɛɛni file
+const TO_FROM_MINUTE = 50;   // from this minute to :59 the "to" form is shown
+
 function altTimeText(d) {
   const h12 = x => (x % 12 === 0 ? 12 : x % 12);
   const m = d.getMinutes(), h = h12(d.getHours()), next = h12(d.getHours() + 1);
   if (m === 0) return "Ɛ thaak " + below100(h) + " ɛ gi̱m";
   if (m === 30) return "Ɛ thaa " + below100(h) + " mi̱ te däär";
-  if (m > 30) return "Ɛ thaak " + below100(60 - m) + " wä kä thaa " + below100(next);
+  if (m >= TO_FROM_MINUTE) return "Ɛ thaak " + below100(h) + " mi̱ wä kä thaa " + below100(next);
   return "";
 }
 
