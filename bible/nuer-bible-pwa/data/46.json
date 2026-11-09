@@ -1,0 +1,617 @@
+{
+    "1 Kor": {
+    "1": {
+      "verses": {
+        "1": "Ɛ ɣän Puɔl, mi ca cɔl ce̱tkɛ min go̱o̱r Kuoth ɛ ɛn ɣöö bä a jak Kritho Yecu, kɔnɛ dämandan ni Thɔ-thɛ-niith,",
+        "2": "Gɔ̱a̱rkɔ jɛ ji̱ duëël Kuɔth in te kä Ko-rinth, kä yɛn tin ca lɛy kɛ Kritho Yecu, tin ca cɔl ala nɛɛ Kuɔth, kɛɛl kɛ nɛy diaal tin cɔalkɛ ciöt Kua̱ran ni Yecu Kritho, Kuääriɛn kä Kuääran, gua̱thni diaal.",
+        "3": "A puɔ̱th baaŋ kɛnɛ mal Kuɔth in la Gua̱a̱ra kɛnɛ Kuäär ni Yecu Kritho tekɛ yɛ.",
+        "4": "Ɣän la̱rä Kuoth tɛ̈th lɔaac ni ciaŋ kɛ kui̱dun, kɛ kui̱ puthä baaŋ Kuɔth min ca ka̱m yɛ rɛy Kritho Yecu.",
+        "5": "Kɛ ɣöö kɛ mat kɛ Kritho ci yɛn riäŋ rɛy kä ti diaal, a te ruac kɛnɛ ŋäc ŋɔaani diaal.",
+        "6": "Ca ruac nenä kɛ kui̱ Kritho jakä thuɔ̱k rɛydun.",
+        "7": "Kɛ kui̱c ɛmɔ thilɛ muc yieekä mi te jɔ̱ɔ̱r kä yɛ, min liɛpɛ jɔac Kua̱ran ni Yecu Kritho.",
+        "8": "Kä bɛ yɛ jakä bum amäni guutdɛ bia thil bɛ̈ɛ̈l kɛ cäŋ Kua̱ran ni Yecu Kritho.",
+        "9": "Kuoth ɛ Gua̱n ŋäthä, kä jɛn cɛ yɛ cɔl rɛy matdä kɛ Gatdɛ ni Yecu Kritho Kuääran.",
+        "10": "Ɣän la̱ŋä yɛ, dämaari kä nyiemaari, kɛ ciöt Kua̱ran ni Yecu Kritho, ɛn ɣöö dee yɛn diaal rɔ̱ mat kɛ ɣöö bɛ thil dääk rɛydun. Kä duundɛ ɣöö ma̱tdɛ kɛ ca̱r kɛl kɛnɛ ruac kɛl.",
+        "11": "Kɛ ɣöö ca jɛ la̱r ɣä ɛ ji̱ Ko-lo-i, dämaari, ɛn ɣöö ta̱yɛ kɛ ŋak kamnikun.",
+        "12": "Min luɔtdä ɛ ɣöö laar ramɔ jɛ kä yɛ i̱, “Ɛ ɣän raan Puɔl,” kiɛ “Ɛ ɣän raan A-pɔ-löth,” kiɛ “Ɛ ɣän raan Thi̱i̱-päth,” kiɛ “Ɛ ɣän raan Kritho.”",
+        "13": "Ca Kritho da̱a̱k? Ca Puɔl pua̱t jiaath kɛ kui̱dun? Kiɛ ca yɛ lak kɛ ciöt Puɔl?",
+        "14": "Ɣän tɛth lɔcdä kɛ Kuoth ɛn ɣöö thilɛ ram kɛl kä yɛ mi cä lak, ɛ ni Ki-rith-päth kɛnɛ Gay-äth.",
+        "15": "Kä bɛ thil ram mi laar jɛ ɛn ɣöö ca jɛ lak kɛ ciötdä.",
+        "16": "(Kä cua ji̱ dhɔaar Thɛ-pa-näth lak bä. Kä kuecä jɛ mi tëë kɛ radɔ̱diɛn mi cä lak.)",
+        "17": "Kä /ken Kritho ɣä ja̱k kɛ ɣöö bä naath lak, kä ɛ ɣöö bä thuk Kuɔth ti gɔw lat, kä /cä jɛ lat kɛ ruac pɛlä nath, kɛ ɣöö /ci lua̱ŋ jiaath Kritho ëë pua̱t kɛ jɛ thi̱n bi thil.",
+        "18": "Kɛ ɣöö ruac kɛ kui̱ jiaath in ca Yecu pua̱t thi̱n ɛ dɔ̱ɔ̱r kä nɛy tin li̱w, kä duundɛ ɣöö ɛ buɔ̱m Kuɔth kä kɔn nɛy tin ka̱nkɛ.",
+        "19": "Kɛ ɣöö ca jɛ gɔ̱r i̱, “Ɣän bä pɛl nɛɛni tin pɛl däk, kä bä ŋäc ŋɔaani nɛɛni tin ŋa̱ckɛ ŋɔak woc.”",
+        "20": "Ram mi pɛl anikä? Kä ram in ŋäc gɔ̱a̱r anikä? Kä gua̱n ŋaknɔmä ɣɔaa ɛmɛ anikä? Kä /ken Kuoth pɛl ɣɔaa ɛmɛ jakä dɔ̱ɔ̱r?",
+        "21": "Kɛ ɣöö rɛy pɛlä Kuɔth, /ken ɣɔw Kuoth ŋa̱c kɛ pɛlɛ ɛmɛ. Ci Kuoth ɛ lar ɛn ɣöö bɛ nɛy ti tekɛ ŋa̱th kän kɛ dɔ̱ɔ̱r latädan kɛ ruaacnikɛ.",
+        "22": "Kɛ ɣöö ji̱ Juudh görkɛ ni nyuuthni ti ga̱ykɛ naath, kä ji̱ Gɛ-rith nhɔakɛ ni pɛl.",
+        "23": "Kä duundɛ ɣöö latnɛ puɔ̱t Kritho jiaath. Ɛ jɛn la riɛk kä ji̱ Juudh ɔ, kä ɛ jɛn la dɔ̱ɔ̱r kä Jur ɔ.",
+        "24": "Kä kɛ kui̱ nɛɛni tin ca cɔl ɛ Kuoth, ji̱ Juudh kɛnɛ ji̱ Gɛ-rith, jɛn Kritho ɛmɔ ɛ jɛn la buɔ̱m Kuɔth ɔ kä pɛl Kuɔth.",
+        "25": "Kɛ ɣöö dɔ̱ɔ̱r Kuɔth lenyɛ pɛl nath, kä kɔ̱a̱c Kuɔth lenyɛ buɔ̱m nath.",
+        "26": "Kä carɛ mëë cɔalkɛ yɛ, dämaari, thilɛ nɛy ti ŋuan ti pɛl kɛ ta̱a̱ nath, kä /cikɛ nɛy ti ŋuan bum tɔ̱, kä /cikɛ nɛy ti ŋuan luɔ̱thkɛ rɛydun ɔ.",
+        "27": "Kä duundɛ ɣöö Kuoth cɛ mi dɔ̱a̱r mɛk rɛy ɣɔaa, kɛ ɣöö bɛ nɛy ti pɛl jakä po̱c. Kä Kuoth cɛ mi kɔ̱c mɛk rɛy ɣɔaa, kɛ ɣöö bɛ nɛy ti bum jakä po̱c.",
+        "28": "Kuoth cɛ mi kuiy kä latkɛ jɔ̱ɔ̱r kä caar ɣɔwɛ i̱ thil luɔt mɛk, kɛ ɣöö bɛ ŋɔaani tin caar ɣɔwkɛ i̱ tekɛ luɔt däk.",
+        "29": "Kɛ ɣöö thilɛ ram mi bi rɔ liak nhiam Kuɔth.",
+        "30": "Kä duundɛ ɣöö ɛ jɛn la tëkdun ɔ rɛy Yecu Kritho, min ci Kuoth ɛ jakä pɛlädan. Kɛ jɛ cakɔn moc cuɔ̱ɔ̱ŋ ɛ Kuoth, kä cikɔn a nɛɛkɛ ti rɛl rɔ̱ ti ca lony ɛ lɔr.",
+        "31": "Kɛ kui̱ ɛmɔ, ce̱tkɛ min ca gɔ̱r i̱, “Ram mi liak rɔ̱ a jɛ liak ni Kuäär ni Yecu.”"
+      },
+      "headings": {
+        "4": {
+          "text": "Puth rɛy Kritho"
+        },
+        "10": {
+          "text": "Dääk rɛy luaak Kuɔth"
+        },
+        "18": {
+          "text": "Kritho ɛ buɔ̱m kä pɛl Kuɔth"
+        }
+      }
+    },
+    "2": {
+      "verses": {
+        "1": "Mëë cä ben kä yɛ, dämaari, ɣän /ka̱n ben ɛ la̱tdä yɛ ruac kɛ kui̱ Kuɔth kɛ rieet ti di̱t kiɛ pɛl.",
+        "2": "Kɛ ɣöö cä jɛ lar ɛn ɣöö thilɛ mi bä ŋa̱c rɛydun ɛ ni Yecu Kritho, kɛnɛ lia̱a̱dɛ wi̱c jiaath in ri̱ew.",
+        "3": "Kä ɣän mëë ba̱a̱ kä yɛ kɔ̱a̱cä kä lathɛ ɣä kɛ dual mi di̱i̱t.",
+        "4": "Kä ruacdä kɛnɛ ŋi̱i̱cdä /cäkɛ lat kɛ rieet pɛlä nath, duundɛ ɣöö latdä kɛ kɛ ŋäc bumä Yieekä Kuɔth.",
+        "5": "Kɛ ɣöö /ci ŋa̱thdun lɔ̱ŋ rɛy pɛlä nath, duundɛ ɣöö lɔ̱ŋɛ rɛy bumä Kuɔth.",
+        "6": "Kä ŋotdɛ bä ruacä kɛ pɛl kɛ nɛy tin ci dël. Kä /ciɛ pɛl runi ti̱ti̱ kiɛ pɛl ruëëcni runi ti̱ti̱ tin bathkɛ buɔ̱mdiɛn.",
+        "7": "Kä ɣän latdä ni pɛl Kuɔth tin la tɛ̱̈ɛ̱̈ni, ci Kuoth kɛ car kɛ kui̱ bumädan ni mëë /ka̱n ɣɔw ni cak.",
+        "8": "Thilɛ ram kɛl kä ruëëc runi ti̱ti̱ mi ŋäc mɛmɛ. Kɛ ɣöö mi ca jɛ ŋa̱c ɛ kɛn, /cikɛ Kuäär buɔyä dee pua̱t jiaath.",
+        "9": "Ce̱tkɛ mëë ca gɔ̱r i̱, “Min /ken waŋ ɛ met nɛn, /ken ji̱th ɛ met liŋ, kä mi /ken raan ɛ car kɛ lɔcdɛ, ɛ jɛn min ci Kuoth ɛ rialikä, kɛ kui̱ nɛɛni tin nhɔakɛ jɛ.”",
+        "10": "Ci Kuoth ti̱ti̱ nyuɔ̱th kɔn kɛ Yiëëdɛ. Kɛ ɣöö Yiëë go̱o̱rɛ ŋɔaani diaal, amäni tɛ̱̈ɛ̱̈ni Kuɔth.",
+        "11": "Kɛ ɣöö ɛŋa mi ŋäc cär ran /ciɛ ni yiëë ran in te rɛydɛ? Kä inɔ bä, thilɛ ram mi ŋäc cär Kuɔth diaal, ɛ ni Yiëë Kuɔth.",
+        "12": "Täämɛ canɛ yiëë jek mi /ci mɔ a yiëë ɣɔaa, duundɛ ɣöö ɛ Yiëë mi bä kä Kuoth, kɛ ɣöö dënɛ muc tin ci Kuoth kɛ ka̱m kɔn ŋa̱c.",
+        "13": "Kä latnɛ ruac ɛmɛ kɛ rieet ti /ca ŋi̱i̱c kɛ pɛl nath ti ŋi̱eeckɛ kɛ Yiëë, kɛ ɣöö ŋi̱eecnɛ nyin yieekä nɛy tin tekɛ yiëë.",
+        "14": "Kä nɛy tin /ci a ji̱ yieekä /ca mucni Yieekä Kuɔth jek, kɛ ɣöö kɛ dɔ̱ɔ̱r kä kɛ. Kä /cikɛ cup lɔɔcdiɛn, kɛ ɣöö jëkɛ luɔtdiɛn kɛ ciaaŋ yieekä kärɔa.",
+        "15": "Kä nɛy tin tekɛ yiëë luɔ̱kɛ luɔ̱ɔ̱tni ŋɔaani diaal, kä thilɛ ram mi bikɛ luk. 16 “Kä ɛŋa mi ŋäc ca̱r Kua̱r ni Kuoth, mɔ dee jɛ luek ɔ?” Kä kɔn ta̱nɛ kɛ ca̱r Kritho."
+      },
+      "headings": {
+        "1": {
+          "text": "Ruac kɛ kui̱ puɔ̱tdä Kritho jiaath"
+        },
+        "6": {
+          "text": "Pɛl Kuɔth in thuɔ̱k"
+        }
+      }
+    },
+    "3": {
+      "verses": {
+        "1": "Kä ɣän, dämaari, /cä bi ruac kɛ yɛ ce̱tkɛ ji̱ yieekä, kä bä ruac kɛ yɛ ce̱tkɛ ji̱ ri̱eŋ, ce̱tkɛ ruɔri ti tɔatni rɛy Kritho.",
+        "2": "Ɣän cä yɛ ruëëth kɛ cak, a /ci mɔ a mi̱eth mi dɔk, kɛ ɣöö /ka̱nɛ rɔ̱ rialikä kɛ kui̱dɛ. Kä a cäŋɛ ɛn täämɛ, /ken yɛn rɔ̱ ni rialikä,",
+        "3": "kɛ ɣöö ŋuɔtdɛ ala ji̱ ri̱eŋ. Kä min ŋot tiɛɛl kɛnɛ gak kamnikun, /ci yɛn a ji̱ ri̱eŋ, kä ciëŋɛ kɛ ciaŋ nath?",
+        "4": "Kɛ ɣöö mi lar ram kɛl ɛ i̱, “Ɛ ɣän raan Puɔl,” kä laar ram mi dɔ̱diɛn ɛ i̱, “Ɛ ɣän raan A-pɔ-löth,” /ci yɛn cieŋ kɛ pek ciɛŋä nath?",
+        "5": "Kä A-pɔ-löth ɛŋa? Kä Puɔl ɛŋa? Kɛ ji̱ läätdä ti ca yɛ nööŋ ŋäthä ce̱tkɛ min ci Kuäär ɛ ka̱m ramɔ i̱ bɛ la̱t.",
+        "6": "Ɣän cä pi̱eth, kä ci A-pɔ-löth kɛ wac, kä ci Kuoth kɛ jakä pith.",
+        "7": "Kä ɛnɔ, /ciɛ pi̱i̱th kiɛ wääc ɛnɔ tee luɔt ɔ, ɛ jɛn Kuoth kärɔa min jakɛ kä pith.",
+        "8": "Ram mi pi̱i̱th kɛnɛ ram mi wääc päärkɛ, kä bi ramɔ mucdɛ jek kɛ pek la̱tdɛ.",
+        "9": "Kɛ ɣöö kɛ kɔn la̱a̱t Kuɔth ti lät kɛɛl. Kä kɛ yɛn kak Kuɔth, kä kɛ yɛn ti̱c Kuɔth bä.",
+        "10": "Kä ce̱tkɛ puɔ̱th baaŋ Kuɔth in cɛ ka̱m ɣä, cä keŋ rialikä ce̱tkɛ läät mi kuur, kä lät radɔ̱diɛn wi̱cdɛ. A ramɔ nik la̱t in lätdɛ ni jɛ.",
+        "11": "Kɛ ɣöö thilɛ ram mi dee keŋ täth a /ci mɔ a min ca la̱t ni wen. Keŋ ɛmɔ ɛ jɛn Yecu Kritho.",
+        "12": "Täämɛ mi cuŋ raan luaak wi̱i̱ keŋä kɛ da̱a̱p, kiɛ ciɛk in bo̱r, kiɛ pääm ti di̱t kökdiɛn, kiɛ jiɛn, juaac, kiɛ nyon,",
+        "13": "bi la̱t raamɔ jɔɔc. Kɛ ɣöö bi cäŋ luɔ̱k ɛ nyoth kɛɛliw, kä ba jɛ nyoth kɛ mac, kä bi mac lät tin ca lat ɛ ram ɛmɔ ɣɔ̱n.",
+        "14": "Kä mi bi min ca täth wi̱i̱ keŋä ɛmɔ ŋot kɛ cuɔ̱ŋ, bi ram in tääth jɛ muc jek.",
+        "15": "Kä mi ca min ca täth waaŋ, bi tääth la̱tdɛ bath, ba kän ni tääth kärɔa, ce̱tkɛ mi känɛ kɛ mac.",
+        "16": "Yɛn /cia jɛ ŋäc, ɛn ɣöö lapɛ luaak Kuɔth, kä cieŋ Yiëë Kuɔth rɛydun?",
+        "17": "Mi yär raan luaak Kuɔth bi Kuoth ram ɛmɔ däk, kɛ ɣöö luaak Kuɔth rɛlɛ rɔ, kä kɛ yɛn luaak Kuɔth ɛmɔ.",
+        "18": "Yɛn /cuarɛ rɔ met. Mi caar raan ɛ i̱ pɛlɛ ɛn runi ti̱ti̱, a jɛ la dɔ̱a̱r kɛ ɣöö bɛ pɛl kɛ thuɔ̱k.",
+        "19": "Kɛ ɣöö pɛl ɣɔaa ɛmɛ ɛ dɔ̱ɔ̱r kä Kuɔth. Kɛ ɣöö ca jɛ gɔ̱r i̱, “Jɛn kääpɛ nɛy tin pɛl rɛy ca̱a̱pnikiɛn,”",
+        "20": "Kä ca jɛ lar guäth mi dɔ̱ŋ i̱, “Kuäär ni Kuoth ŋäcɛ cär nɛɛni ti pɛl, ɛn ɣöö thilɛ kɛ luɔt.”",
+        "21": "Kä a thil ram mi liak min la̱tkɛ ɛ naath. Kɛ ɣöö ti diaal kɛ nyinkun,",
+        "22": "a cäŋɛ Puɔl, kiɛ A-pɔ-löth, kiɛ Thi̱i̱-päth, kiɛ ɣɔw ɛmɛ, kiɛ tëk, kiɛ lia̱a̱, kiɛ täämɛ mɛ, kiɛ nhiam, kɛn diaal kɛ nyinkun,",
+        "23": "kä yɛn lapɛ nɛy Kritho, kä Kritho ɛ raan Kuɔth."
+      },
+      "headings": {
+        "1": {
+          "text": "La̱a̱t Kuɔth"
+        }
+      }
+    },
+    "4": {
+      "verses": {
+        "1": "Carɛ kɔ inɛ, lapkɔ ji̱ läätdä Kritho, ti ci Kuoth kɛ jakä yuɔ̱ɔ̱p tɛ̱̈ɛ̱̈nikɛ.",
+        "2": "Kä min görkɛ kä läät mi ce̱tkɛ nɔ ɛ ɣöö ɛ a läät mi ŋa̱thkɛ ɛ kuäärɛ.",
+        "3": "Kä kɛ kui̱dä cä riɛk ɛn ɣöö bia ɣä luk kiɛ ba ɣä luk ɛ naath. A cäŋɛ ni ɣän /cä rɔ luk.",
+        "4": "Kä thilɛ duer mi ŋa̱cä kärɔ, kä duundɛ ɣöö /cɛ ɣä jakä thil duer. Kɛ thuɔ̱k ɛ Kuäär ni Yecu ɛn ni̱n luk ɣä.",
+        "5": "Kɛ kui̱ ɛmɔ, /cu luk ŋok mi /ken gua̱a̱thdɛ ni ben. Li̱epɛ amäni mi ci Kuäär ni Yecu ben. Jɛn bɛ ŋɔaani tin ca tɛ̱̈ɛ̱̈ täämɛ rɛy muɔ̱th nööŋ rɛy buɔyä, kä bɛ cär lo̱cni jakä jɔc. Kä bi ram ɔ liakdɛ jek kä Kuoth.",
+        "6": "Ɣän cä kɛn ti diaal ti̱ti̱ lät kä A-pɔ-löth kä cäkɛ lät kärɔɔdä kɛ kui̱ gɔɔyädun, dämaari, kɛ ɣöö dee yɛn luɔt kä min larkɛ i̱, “Thilɛ mi bääl min ca gɔ̱r rɛy ruac Kuɔth,” kɛ ɣöö thilɛ raan kä yɛ mi bi rɔ liak kɛ raan kä lo̱kɛ ram in dɔ̱ŋ.",
+        "7": "Kɛ ɣöö ɛŋa mi jak ji̱ kä göl kä ram in dɔ̱ŋ? Kä ɛŋu tekɛ ji̱ mɔ mi /ka̱n ka̱m ji̱? Kä mi ca jɛ ka̱m ji̱, kä ɛŋu liaki rɔ mɔ ce̱tkɛ mi /ciɛ muc?",
+        "8": "Cia ro̱ŋ kɛ tin görɛ! Kä cia ria̱ŋ! Kä ci yɛn a kua̱r a thilɛ kɔ thi̱n! Kɛ thuɔ̱k, ɣän göörä jɛ ɛn ɣöö dee yɛn a kua̱r, kɛ ɣöö dee nɛy a kua̱r kɛ yɛ kɛɛl!",
+        "9": "Kɛ ɣöö caarä jɛ ɛn ɣöö Kuoth cɛ kɔn jaak la̱th guäth in jɔak, ce̱tkɛ nɛy ti ca kum kɛ lia̱a̱. Kɛ ɣöö cakɔ ben a nɛy ti guɛckɛ ɛ ɣɔw, kɛ ja̱a̱k nhial kɛnɛ naath.",
+        "10": "Kɔn lapkɔ dɔa̱a̱r kɛ kui̱ Kritho, kä yɛn pɛlɛ rɛy Kritho. Kɔn nyua̱nkɔ, kä duundɛ ɣöö bum yɛn. Luth naath yɛ, kä canykɛ kɔ.",
+        "11": "Amäni täämɛ näk buɔth kɛnɛ rɛw kɔ, kä ciaŋkɔ ni bieyni ti ci rɛ̈t, kä dua̱ckɛ kɔ, kä thilɛ kɔ ciëëŋ.",
+        "12": "Kä kɔn cuɔ̱ckɔ kɛ lät tetnikɔ. Mi cakɔ lam, poth nɛy naath. Mi cakɔ ciɛŋ a jiäk ɛ naath, la ruɔ̱tkɔ jɛ.",
+        "13": "Mi cakɔ kuëth, la nɛy a ruac agɔaa. Cua kɔ ce̱tnikɛ di̱r jiäkni ɣɔaa kɛnɛ nyaal wec muɔ̱ɔ̱n, amäni cäŋ ɛmɛ.",
+        "14": "Ɣän /cä yɛ gɔ̱a̱r mɛmɛ kɛ ɣöö bɛ yɛ jakä po̱c, duundɛ ɣöö luëëkä ni yɛ ce̱tkɛ gaatkä tin nhɔakä.",
+        "15": "Kɛ ɣöö cäŋ te yɛn kɛ ga̱a̱ŋ ti bathdɔɔri da̱ŋ wäl rɛy Kritho, kä thilɛ yɛ guuri ti ŋuan. Kɛ thuɔ̱k rɛy Kritho Yecu ci ɣän a guurun kɛ thuk tin gɔw.",
+        "16": "Ɣän la̱ŋä yɛ ɛn ɣöö bi yɛn a nyiath ni ciaaŋdä.",
+        "17": "Kɛ kui̱ kä mɛmɛ ɣän ja̱kä yɛ Ti-mo-thi min la gatdä min nhɔakä kä tekɛ ŋa̱th rɛy Kua̱r ni Yecu, ɛn ɣöö bɛ yɛ ti̱em ciɛŋkä rɛy Kritho, ce̱tkɛ min cäkɛ ŋi̱eec gua̱thni diaal rɛy lueekni Kuɔth diaal.",
+        "18": "Kä tha̱a̱ŋkun liakɛ, rɔ̱ kɛ ɣöö carkɛ jɛ /cä bi ben kä yɛ.",
+        "19": "Kä bä ben kä yɛ kɛ gua̱a̱th mi thia̱k, mi nhɔk Kuäär ɛ, kä bä buɔ̱m nɛɛni tɔ̱ liakɛ rɔ̱ tɔ̱ ben jek a /ci mɔ a min lat kɛn ɛ.",
+        "20": "Kɛ ɣöö ciaŋ kuäärä Kuɔth /cɛ te rɛy ruac kärɔa, te rɛy bumä.",
+        "21": "Ɛŋu mi bi yɛn ɛ mɛk? Bä ben kä yɛ kɛ kɛɛt, kiɛ kɛ yiëë nho̱kä kɛnɛ ciaŋ gɔɔyä?"
+      },
+      "headings": {
+        "1": {
+          "text": "Jaak Yecu"
+        }
+      }
+    },
+    "5": {
+      "verses": {
+        "1": "Ca jɛ lat ɛpuc ɛn ɣöö te rɛydun kɛ ciaaŋ leerä, ɛn ni ce̱tkɛ nɔ, ɛ mi /ca dee jek a cäŋɛ ni rɛy nɛɛni ti kueckɛ Kuoth. Cä jɛ liŋ ɛn ɣöö nyuur raan kɛɛl kɛ ciek gua̱n.",
+        "2": "Kä liak yɛn rɔ̱! /Ci gɔaa ni ɣöö dee pa̱r ni yɛn? Kä ram mɔ ci mɔmɔ la̱t ɔ a jɛ wuɔckɛ rɛydun.",
+        "3": "Kɛ ɣöö cäŋ te puɔ̱nydä jɔ̱ɔ̱r, ta̱a̱ kɛɛl kɛ yɛ kɛ yiëë. Kä ce̱tkɛ mi ta̱a̱ thi̱n, cä lukdä ku thuŋ ŋok",
+        "4": "kɛ ciöt Kua̱r ni Yecu kɛ kui̱ wutdä min ci mi ce̱tkɛ nɔ la̱t. Mëë cia duɔl, kä te yiëëdä thi̱n kɛ buɔ̱m Kua̱ran ni Yecu,",
+        "5": "ka̱mɛ ram ɛmɔ Cɛy-tan kɛ kui̱ däkä pua̱a̱nydɛ, kɛ ɣöö dee yiëëdɛ kään kɛ cäŋ Kua̱r ni Yecu.",
+        "6": "Liakdun /ciɛ mi gɔaa. Kuecɛ jɛ, ɛn ɣöö thuɔp mi tɔt jiɛcɛ nup kɛɛliw?",
+        "7": "Lɛ̈yɛ thuɔp ëë wal raar, kɛ kui̱ kä ɣöö bi yɛn a nup mi gɔaa, mi /ka̱n liɔm kɛ thuɔp ce̱tkɛ mɔ te yɛn ɔ. Kɛ ɣöö ca Kritho min la Ruath Ca̱ŋ Bälä thöp.",
+        "8": "Kɛ kui̱ ɛmɔ kuanɛ juray Cäŋ Bälä la̱t, duundɛ ɣöö a /ci mɔ a juray mi tekɛ thuɔp ëë wal, min mɔ thuɔp nyier kɛnɛ nyuɔɔn. Duundɛ ɣöö la̱t nɛ jɛ kɛ juray thukä mi wic wic mi /ka̱n liɔm kɛ thuɔp.",
+        "9": "Cä jɛ gɔ̱a̱r yɛ rɛy warɛgakädä ɛn ɣöö /cia bi mat kɛ nɛy ti nhɔakɛ la̱t leer.",
+        "10": "Ɣän /cä lot ni leer ɣɔaa ɛmɛ, kiɛ ji̱ da̱r kɛnɛ ma̱a̱c nath, kiɛ nɛy tin palkɛ kuth baaŋ. Kä kɛ ɣöö dërɛ jiɛɛn kä kɛ, dërɛ dhil ben raar rɛy ɣɔaa ɛmɛ.",
+        "11": "Kä ɛn täämɛ ɣän gɔ̱a̱rä yɛ warɛgak ɛmɛ kɛ ɣöö /cia bi mat kɛ ram mi cɔali dämuɔɔr mi tekɛ ciaŋ leerä kiɛ da̱r kiɛ pa̱l kuthni baaŋ, mi kueth naath, mi yɔ̱ŋ kɔaŋ, kiɛ määc nath. A cäŋɛ mi̱eth, /cuarɛ jɛ cam kɛɛl kɛ ram mi ce̱tkɛ ɛnɔ.",
+        "12": "Kɛ ɣöö ɛŋu mi dëë lɛl kɛ luk ji̱ raar? /Cikɛ nɛy tin te rɛy duëël Kuɔth kɛn tin dee yɛn kɛ luk?",
+        "13": "Kuoth lukɛ nɛy tin /ci te dueel Kuɔth. “Tuɔ̱kɛ ram mɔ jiääk ɛmɔ raar rɛydun.”"
+      },
+      "headings": {
+        "1": {
+          "text": "Ciaaŋ leerä yärɛ duel Kuɔth"
+        }
+      }
+    },
+    "6": {
+      "verses": {
+        "1": "Mi te raan kä yɛ kɛ gak kɛ däman, la yɛn a go̱o̱r ni naŋdɛ guäth luɔ̱k nhiam nɛɛni tin thil cuŋ, kä naŋdɛ nhiam nɛɛni tin ci Kuoth kɛ lɛy?",
+        "2": "Kuecɛ jɛ ɛn ɣöö bi nɛy tin ca lɛy ɣɔw luk? Kä mi bi yɛn ɣɔw luk, /cia ro̱ŋ kɛ luɔ̱k kä tin tɔatni? 3/Cia jɛ ŋäc ɛn ɣöö banɛ ja̱a̱k nhial luk? Kä derɛ kulɛ te i̱di kɛ nyin teekä mɛmɛ?",
+        "4": "Kä mi ta̱yɛ kɛ go̱o̱nyni ti ce̱tkɛ tɔ̱tɔ̱, ɛ bia naath ku kuany ti bikɛ luk nɛy ti thil luɔt rɛy duëël Kuɔth?",
+        "5": "Ɣän latdä mɛmɛ kɛ kui̱ po̱cädun. Kɛ thuɔ̱k ɛpuc, te rɛydun kɛ ram mi pɛl, mi dee ruac ŋok kam Krith-cini.",
+        "6": "Kä duundɛ ɣöö la raan Yecu däman a naŋ guäth luɔ̱k, ala yɛn mɛmɛ a lät nhiam nɛɛni tin thil ŋa̱th!",
+        "7": "Kä kɛ thuɔ̱k mi ta̱yɛ kɛ go̱o̱nyni kamnikun nyoothɛ ni ɣöö ca yɛ tiam. /Ci ŋua̱n ni ɣöö ba yɛ dui̱rikä? /Ci ŋua̱n ni ɣöö ba yɛ mac?",
+        "8": "Kä yɛn pua̱nykun la̱tdɛ dueer kä macɛ naath, a cäŋɛ ni dämuɔɔrikun rɛy Kritho!",
+        "9": "Kä /cia jɛ ŋäc ɛn ɣöö ji̱ dueeri /cikɛ ciëŋ kuäärä Kuɔth bi jek? A yɛ /ca mɛt ɛ raan. Nɛy tin lër, tin pa̱a̱l kuthni baaŋ, tin dhööm, wutni tin kɔarkɛ rɔ,",
+        "10": "nɛy tin kuëël, tin ji̱ da̱r, tin la yɔ̱a̱ŋ kɔaaŋni, tin ji̱ kueethä, tin la ma̱a̱c nath, kɛn tɔ̱tɔ̱ /ca ciëŋ kuäärä Kuɔth bi jek.",
+        "11": "Kä tha̱a̱ŋkun ce̱tkɛ kɛ nɛy ɛ tɔ̱. Kä duundɛ ɣöö ca yɛ lak, ca yɛ jak kä gɔaa ci Kuoth yɛ lɛy, kä ca yɛ moc cuɔ̱ɔ̱ŋ kɛ ciöt Kua̱r ni Yecu Kritho kɛnɛ rɛy Yieekä Kuɔthdan.",
+        "12": "Dee raan wee i̱, “Ŋɔaani diaal luɔtkɛ rɔ̱ kɛ ɣä,” kä duundɛ ɣöö /ciɛ ŋɔak diaal gɔw rɔ̱ kɛ ji̱ mɔ. “Ŋɔaani diaal luɔtkɛ rɔ̱ kɛ ɣä,” kä duundɛ ɣöö thilɛ mi bi ɣä jakä kuanydɛ.",
+        "13": "Kä dee raan wee i̱, “Mi̱eth lotdɛ ni jic, kä jic lotdɛ ni mi̱eth,” kä bi Kuoth kɛnɛ da̱ŋ rɛw däk. Kä puɔ̱ny /cɛ lot ni leer, lotdɛ ni Kuäär, kä Kuäär lotdɛ ni puɔ̱ny.",
+        "14": "Kuoth cɛ Kuäär ni Yecu jiɛc li̱th, kä kɛ buɔ̱mdɛ bɛ kɔn jiɛc li̱th bä. 15/Cia jɛ ŋäc ɛn ɣöö pua̱nykun kɛ cuŋ pua̱a̱ny Kritho? Kɛ kui̱ ɛmɔ bä cuŋ Kritho ka̱n kä bäkɛ jakä cuŋ leerä? Ëëy!",
+        "16": "Kuecɛ jɛ ɛn ɣöö ram mi ci rɔ mat kɛ ler bɛ a puɔ̱ny kɛl kɛ jɛ? Kɛ ɣöö ca jɛ lar i̱, “Kɛn da̱ŋ rɛw bikɛ a puɔ̱ny kɛl.”",
+        "17": "Kä ram mi ca mat kɛ Kuäär bɛ a yiëë kɛl kɛ jɛ.",
+        "18": "Yiënɛ rɔ̱ kä leer! Dueer diaal kɔ̱kiɛn tin lät raan kɛ tekɛ raar pua̱ny, kä duundɛ ɣöö ram mi duer kɛ leer dui̱r ni puɔ̱nydɛ duer pa̱ny.",
+        "19": "Kiɛ kuecɛ jɛ ɛn ɣöö puɔ̱nydun ɛ jɛn duel in cieŋ Yiëë in Gɔaa in Rɛl Rɔ thi̱n rɛydun, min ca ka̱m yɛ ɛ Kuoth? Yɛn, /ci yɛn la nyin pua̱nynikun,",
+        "20": "kɛ ɣöö ca yɛ kɔk kɛ ko̱k. Kɛ kui̱c ɛmɔ liakɛ Kuoth kɛ pua̱nykun."
+      },
+      "headings": {
+        "1": {
+          "text": "Luk kam ji̱ kɔaar Yecu"
+        },
+        "12": {
+          "text": "Liakɛ Kuoth kɛ pua̱nykun kɛnɛ Yiëë"
+        }
+      }
+    },
+    "7": {
+      "verses": {
+        "1": "Täämɛ kɛ kui̱ ruaacni tin cia gɔ̱r i̱, “Gɔaaɛ ɛn ɣöö wut /cɛ ciek bi guëër.”",
+        "2": "Kä kɛ kui̱ go̱o̱nyni käni mään, ɛ wut ɔ tekɛ ciekdɛ, kä a ciekɔ tekɛ cɔwdɛ.",
+        "3": "Kä ɛ wut lät la̱tdɛ ala wut, kä ɛ ciek lät la̱tdɛ ala ciek. Kä ɛ ram ɔ ro̱o̱ŋ lɔc raam ɔ kɛ min go̱o̱rɛ.",
+        "4": "Kɛ ɣöö ciek thilɛ jɛ lua̱ŋ kɛ puɔ̱nydɛ, ɛ cɔwdɛ tekɛ lua̱ŋ kɛ jɛ mɔ. Kä cɔw bä thilɛ jɛ lua̱ŋ kɛ puɔ̱nydɛ, ɛ ciekdɛ tekɛ lua̱ŋ kɛ jɛ mɔ. 5/Cuarɛ rɔ̱ pen rɔ̱, ɛ ni mi cia jɛ mat ɛn ɣöö bia te gööli kɛ pek gua̱th mi tɔt, kɛ ɣöö bia gua̱a̱th ɛn thuk palä. Kä nyɔakɛ rɔ̱ kɛ ma̱t, kɛ ɣöö /ci Cɛy-tan yɛ bi ɣɔam kɛ kui̱ kä ɣöö /cia rɔ̱ luäŋ kɛ guɔ̱k.",
+        "6": "Ɣän laarä ni mɛmɛ yɛ /ciɛ ɣöö la̱tdä ni jɛ yɛ.",
+        "7": "Ɣän göörä ni ɣöö dee nɛy diaal ce̱tkɛ ɣä. Kä te ramɔ kɛ mucdɛ mi ca ka̱m jɛ ɛ Kuoth, te ram ɛmɛ kɛ muc ɛmɛ, kä te min dɔ̱ŋ kɛ muc mi göl.",
+        "8": "Kɛ kui̱ nɛɛni tin /ken kuɛɛn kɛnɛ män jɔɔkni, ɣän la̱rä kɛ ɣöö gɔaaɛ kɛ kɛ ɛn ɣöö bikɛ cieŋ a /ci kuën ce̱tkɛ mɛ ta̱a̱ mɛ.",
+        "9": "Kä mi /cikɛ rɔ̱ luäŋ kɛ guɔ̱k, akɛ kuen. Kɛ ɣöö ŋua̱ni kuën kä di̱t lɔaac leerä.",
+        "10": "Ɣän la̱tdä jɛ nɛy tin ci kuɛɛn, kä /ciɛ ɣän, laarɛ Kuäär ni Yecu, ɛn ɣöö ciek /cɛ bi da̱k kä cɔwdɛ,",
+        "11": "(kä mi cɛ da̱k a jɛ cieŋ a /ca kuɛn, kiɛ a jɛ loc kä cɔwdɛ) kä wut /cɛ ciekdɛ bi däk.",
+        "12": "Ɣän la̱rä jɛ nɛy tin kɔ̱kiɛn, a /ciɛ laar Kuäär, ɛn ɣöö mi te raan ŋäthä kɛ ciek mi /ci ŋa̱th, kä nhɔk ciek ɛ ɛn ɣöö bikɛ te kɛɛl, a jɛ /ci ciekdɛ däk.",
+        "13": "Kä mi tëë kɛ ciek mi /ci cɔwdɛ ŋa̱th, kä nhɔk cɔw ɛ ɛn ɣöö bikɛ te kɛɛl, a jɛ /ci cɔwdɛ däk.",
+        "14": "Kɛ ɣöö cɔw mi thil ŋa̱th jakɛ jɛ kä lɛy lɛy kɛ ciekdɛ, kä ciek mi thil ŋa̱th jakɛ jɛ kä lɛy lɛy kɛ cɔwdɛ. Mi /ciɛ jɛn inɔ, gaatkun /cikɛ bi gɔw, kä kɛ ta̱a̱ ɛmɔ kɛn rɛl gɔɔydiɛn rɔ.",
+        "15": "Kä mi ci ram in thil ŋa̱th go̱r ɛn ɣöö bikɛ da̱k, a jɛ däk. Mi ci nɔmɔ tuɔɔk inɔ, bi ciek kiɛ wut in ŋa̱th lɔar. Kɛ ɣöö ci Kuoth yɛ cɔl kɛ ɣöö bia cieŋ kɛ mal.",
+        "16": "Ciek, ŋäci jɛ i̱di ɛn ɣöö dɔ̱ŋ /ci cɔwdu bi kän? Cɔw, ŋäci jɛ i̱di ɛn ɣöö dɔ̱ŋ /ci ciekdu bi kän?",
+        "17": "Kä ɛ ram ɔ kä yɛ cieŋ kɛ duɔ̱ɔ̱p in ci Kuoth ɛ ka̱m jɛ, kɛ ciaaŋ ëë cieŋ kɛ jɛ mëë cɔɔl Kuoth jɛ. Mɛmɛ ɛ jɛn ŋut in ŋi̱eecä duëli Kuɔth diaal.",
+        "18": "Tëëkɛ ram mi ca thuŋ cuɛl guäth ëë cɔalkɛ ni jɛ? A jɛ /ci ciaŋ cuelädɛ päl. Tëëkɛ ram mi /ka̱n cuɛl guäth ëë cɔalkɛ ni jɛ? A jɛ /ci cuël go̱r.",
+        "19": "Kɛ ɣöö thilɛ cuël luɔt, kä thil cuelä thilɛ jɛ luɔt, kä luth ŋuɔ̱tni Kuɔth ɛnɔ tekɛ luɔt ɔ.",
+        "20": "A ram ɔ tekɛ ta̱a̱dɛ mëë cɔalkɛ jɛ thi̱n.",
+        "21": "Mi ɛ ji̱n kuany mëë cɔalkɛ ji̱? /Cu rɔ jut kɛ jɛ. Kä mi deri ciaŋ lɔrädu jek, käpɛ ala baŋdu.",
+        "22": "Kɛ ɣöö jɛn ram mi ca cɔl rɛy Kua̱r ni Yecu ala kuany, ɛ ram mi ca lony rɛy Kua̱r ni Yecu. Kä ce̱tkɛ inɔ bä, jɛn ram mi lɔr mëë cɔalkɛ jɛ, ɛ kuany Kritho.",
+        "23": "Ca yɛ kɔk kɛ ko̱k, /cuarɛ bi a kuaany nath.",
+        "24": "Kä ɛnɔ, dämaari, ɛ ram ɔ tekɛ ta̱a̱dɛ mëë cɔalkɛ jɛ thi̱n kä yɛ, kä a jɛ te kɛɛl kɛ Kuoth.",
+        "25": "Täämɛ kɛ kui̱ nɛɛni ti /ken kuɛɛn, thilɛ ɣä ruac kä Kuäär ni Yecu kɛ kui̱diɛn, kä ɣän thöpä ca̱rä ce̱tkɛ ram mi ŋa̱thkɛ kɛ kɔ̱a̱c lɔaac Kua̱r ni Yecu.",
+        "26": "Ɣän caarä jɛ kɛ kui̱ rikni ti̱ti̱, gɔaaɛ ɛn ɣöö bi raan tekɛ ta̱a̱ in tekɛ jɛ.",
+        "27": "Ji̱n ci kuɛɛn kɛ ciek? /Cu däkdɛ lɛ go̱r. Ji̱n /keni kuɛɛn? /Cu kuën lɛ go̱r.",
+        "28": "Kä mi ci kuɛɛn thilɛ ji̱ duer, kä mi ca nyal kuɛn, jɛn thilɛ jɛ duer. Kä nɛy tin ci kuɛɛn bikɛ rik jek rɛy teekä ɛmɛ, kä göörä ɣöö dëë yɛ gaŋ kä riɛk ɛmɔ.",
+        "29": "Dämaari, ɣän luɔtdä ni ɣöö gua̱a̱th in ca lar cɛ thia̱k. Kä a tɛmɛ ni ɛn täämɛ a wä nhiam, a nɛy ti tekɛ män cieŋ ce̱tkɛ nɛy ti thil män,",
+        "30": "kä a nɛy ti pär cieŋ ce̱tkɛ nɛy ti /ci pär, kä a nɛy ti tɛth lo̱ckiɛn cieŋ ce̱tkɛ nɛy ti /ci lo̱ckiɛn tɛth, kä a nɛy ti ko̱k cieŋ ce̱tkɛ nɛy ti thil ŋɔaani,",
+        "31": "kä nɛy ti tekɛ maar kɛ ɣɔw cieŋ ce̱tkɛ nɛy ti thil maar kɛ jɛ. Kɛ ɣöö ta̱a̱ ɣɔaa ɛmɛ wee kɛ mi thukɛ.",
+        "32": "Ɣän göörä jɛ ɛn ɣöö bia thil diɛɛr. Ram mi thil ciek diɛɛrɛ kɛ lät Kua̱r ni Yecu, kɛ ɣöö go̱o̱r ɣöö bɛ lɔc Kua̱r ni Yecu tɛth.",
+        "33": "Kä ram mi ci kuɛɛn diɛɛrɛ kɛ nyin ɣɔaa, kɛ ɣöö go̱o̱rɛ ɣöö bɛ lɔc ciëkdɛ tɛth,",
+        "34": "kä ca tin diaal tin go̱o̱rɛ da̱a̱k. Kä ciek mi thil cɔw kiɛ nyal diɛɛrkɛ kɛ lät Kua̱r ni Yecu, kɛ ɣöö dee puɔ̱nydiɛn kɛnɛ yiëëdiɛn rɔ rɛl. Kä ciek mi ca kuɛn diɛɛrɛ kɛ nyin ɣɔaa, kɛ ɣöö go̱o̱rɛ ɣöö bɛ lɔc cɔaadɛ jakä tɛth.",
+        "35": "Ɣän la̱rä yɛ mɛmɛ kɛ kui̱ gɔɔyädun, /ciɛ ɣöö bä yɛ gok, kä ɛ ɣöö bia la̱t ni cuŋ, kä bia Kuäär luɔ̱th a thil mi dɔ̱diɛn mi bi yɛ gaŋ.",
+        "36": "Mi caar raan ɛ, ɛn ɣöö /cɛ rɔɔdɛ ciɛŋ gɔaa kɛ nyam min cɛ la̱r kuën, kä mi go̱o̱r lɔcdɛ kuëndɛ kä bɛ jɛ lat, a jɛ lätdɛ ce̱tkɛ min go̱o̱rɛ, akɛ kuɛ̈nkɛ rɔ̱. /Ciɛ duer.",
+        "37": "Kä duundɛ ɣöö mi ci raan a car kɛ lɔcdɛ ɛn ɣöö /cɛ kuën lɛ go̱r, kä cɛ rɔ käp ɛ bum, kä cɛ lat ɛn /cɛ nyam in cɛ la̱r kuën bi kuɛn ɛn täämɛ jɛn, bɛ la̱t ni mi gɔaa.",
+        "38": "Kɛ kui̱c ɛmɔ ram mi kuɛɛn nyam in go̱o̱rɛ kuëndɛ lätdɛ ni mi gɔaa, kä ram mi /ci kuen bɛ la̱t ni mi ŋua̱n ni jɛn.",
+        "39": "Bi ciek dhil te kɛɛl kɛnɛ cɔwdɛ min ŋot cɔwdɛ teekä. Kä mi ci cɔwdɛ li̱w, tëëkɛ cuɔ̱ɔ̱ŋ ɛn ɣöö dëë jɛ nyɔk kɛ kuën ɛ ram mi go̱o̱rɛ, kä bɛ a ram mi te rɛy Kua̱r ni Yecu.",
+        "40": "Kä kɛ ca̱rä dee di̱t ni tɛ̈th lɔaacdɛ, mi /ka̱nɛ nyɔk kɛ kuën. Kä caarä jɛ ɛn ɣöö ta̱a̱ kɛ Yiëë Kuɔth."
+      },
+      "headings": {
+        "1": {
+          "text": "Thiec kɛ kui̱ kuën"
+        },
+        "17": {
+          "text": "Cieŋni ce̱tkɛ min ci Kuoth ji̱ cɔl"
+        },
+        "25": {
+          "text": "Thiecni kɛ kui̱ raam mi /ken kuɛɛn kɛnɛ män jɔɔkni"
+        }
+      }
+    },
+    "8": {
+      "verses": {
+        "1": "Täämɛ kɛ kui̱ mi̱thni tin ca ka̱m kuth jiɛn, ŋa̱cnɛ jɛ ɛn ɣöö, “Kɔn diaal ta̱nɛ kɛ ŋäc ŋɔaani.” Kä ŋäc ŋɔaani kɔ̱pɛ raan kɛ liak, kä nhök piithɛ raan.",
+        "2": "Kä mi caar raan ɛ ɛn ɣöö ŋäcɛ duɔ̱ɔ̱r, ŋotdɛ /cɛ jɛ ŋäc, ce̱tkɛ ŋäc in derɛ ŋäc ni jɛ.",
+        "3": "Kä duundɛ ɣöö mi nhɔk raan Kuoth, jɛn ŋäc Kuoth ɛ.",
+        "4": "Kä kɛ kui̱ mi̱eth kä min ca ka̱m kuth baaŋ, ŋa̱cnɛ jɛ ɛn ɣöö, “thilɛ kuoth baaŋ rɛy ɣɔaa mi te wanɔ” kɛnɛ ɣöö “thilɛ Kuoth ɛ ni kɛl.”",
+        "5": "Kɛ ɣöö cäŋ tëëkɛ ti cɔalkɛ i̱ kuth nhial kiɛ piny, ɛpuc tëëkɛ ti cɔalkɛ “kuth” kɛnɛ “kua̱r” ti ŋuan.",
+        "6": "Kä ŋotdɛ kɛ kui̱dan Kuoth ɛ kɛl, in la Gua̱a̱r in te nhial. Kä ɛ cääk kä ti diaal, kä ɛ jɛn ɛ ni̱n tëk kɔn kɛ jɛ. Kä te ni Kuäär kɛl thi̱n, min la Yecu Kritho, min ca ŋɔaani diaal cak kɛ jɛ, kä tëk kɔn kɛ jɛ.",
+        "7": "Kä /cikɛ nɛy diaal ŋa̱ckɛ thuɔ̱k ɛmɛ ɔ. Tha̱a̱ŋ nath cikɛ ŋa̱c ni kuth baaŋ, kɛ ɣöö mi cikɛ mi̱eth mi ce̱tkɛ ɛn ɔ cam, ŋotdɛ carkɛ jɛ ɛn ɣöö ɛ mi̱eth mi ca thöp kuoth baaŋ. Kɛn kɔ̱c ca̱r lo̱cnikiɛn, la kɛn ɛ a caar i̱ ca rɔ̱ ya̱r kɛ mi̱ethdiɛn kɛ mi̱eth ɛmɔ.",
+        "8": "Mi̱eth /cɛ kɔn bi nööŋ gekä Kuɔth. /Ci jiääkdan di̱t mi /canɛ mi̱th, kä /ci gɔɔydan di̱t mi mi̱ethnɛ.",
+        "9": "Kä duundɛ ɣöö niɛkɛ rɔ̱ kɛ ɣöö /ci ciaŋ lɔrädun ɛmɛ nɛy tin kɔ̱c ŋäthädiɛn bi pɛn dui̱rä.",
+        "10": "Kä mi ca ji̱ nɛn ɛ nɛy kɔ̱kiɛn, ji̱n ram min ŋäc ŋɔak, a mi̱thi rɛy luaak kuɔth baaŋ. /Ci nɛy ɛ tɔ̱ min kɔ̱c ca̱r lo̱cnikiɛn, rɔ̱ bi com ɛn ɣöö bikɛ mi̱eth in ca ka̱m kuth baaŋ cam?",
+        "11": "Kä kɛ ŋäc ŋɔaanidu ba nɛy tin kɔ̱c ŋa̱thdiɛn tin ci Kritho li̱w kɛ kui̱dɛ däk.",
+        "12": "Kä mi wi̱i̱ duer wä lät kä dämuɔɔri rɛy Kritho, kä bia ca̱riɛn ya̱r min ŋot kɛ kɔ̱a̱c, dui̱r yɛn ni Kritho duer.",
+        "13": "Kɛ kui̱ ɛmɔ, mi ɛ mi̱eth ɛn ni̱n jak dämaar kä pɛn dui̱rä, ɣän /cä ri̱ŋ bi met cam, kɛ ɣöö /cä dämaar bilɛ jakä tɛth."
+      },
+      "headings": {
+        "1": {
+          "text": "Thiec kɛ kui̱ mi̱eth mi ca ka̱m kuth jiɛn"
+        }
+      }
+    },
+    "9": {
+      "verses": {
+        "2": "Mi /ci ɣän a jak kä nɛy kɔ̱kiɛn, ɛ ɣän jak kä yɛ. Kɛ ɣöö lapɛ nyuuth kɛ thuɔ̱k ɛn ɣöö ɛ ɣä jak rɛy Kua̱r ni Yecu.",
+        "3": "Nɛmɛ ɛ jɛn ruac ga̱ŋdä kɛ rɔ, kä nɛy tin ba ɣä ɣɔ̱n. 4/Ci kɔn tekɛ cuɔ̱ɔ̱ŋ, kɛ mi̱ethdan kɛnɛ min mathnɛ? 5/Canɛ tekɛ cuɔ̱ɔ̱ŋ kɛ ja̱lan kɛɛl kɛ ciek mi tekɛ ŋa̱th ce̱tkɛ jaak tin kɔ̱ŋ, kɛ dämani Kua̱r ni Yecu amäni Thi̱i̱-päth?",
+        "6": "Kiɛ Bar-na-bäth kɛnɛ ɣän kärɔ̱ kɛn tɔ̱ bi lät tɔ̱ kɛ kui̱ nyinä ciɛŋädä?",
+        "7": "Ɛŋa mi lät ala raan rɛ̈m kä mocɛ rɔ kɛ nyinkɛ? Ɛŋa mi piith kak wal kɛ kui̱ kɔaŋ thilɛ dɛy ti camɛ thi̱n? Ɛŋa mi lääk det a thil cak ti jekɛ thi̱n?",
+        "8": "Ɣän latdä mɛmɛ kɛ lua̱ŋ mi bëë kä naath? /Ci ŋut lat ni mi ce̱tkɛ jɛ?",
+        "9": "Kɛ ɣöö ca jɛ gɔ̱r rɛy ŋutdä Muthɛ i̱, “/Ca thok tha̱a̱k dee kum, mi kɔ̱ɔ̱mɛ bɛl.” Ɛ kui̱ thääkni ɛn nɔ diɛɛr kɛ Kuoth ɔ?",
+        "10": "Jɛn /cɛ ruac kɛ kui̱dan kɔn diaal? Ca jɛ gɔ̱r kɛ kui̱dan pa̱ny, ɛn ɣöö ram mi pur derɛ puur kɛ ŋa̱th kɛ ti bɛ jek, kä dee kɔ̱ɔ̱m bɛl kɔ̱a̱m kɛ ŋa̱th ɛn ɣöö bi tha̱a̱ŋ bɛɛl a nyinkɛ.",
+        "11": "Kä mi cakɔ kuay yieekä piɛth rɛydun, derɛ a mi di̱i̱t ɛlɔ̱ŋ mi cakɔ tha̱a̱ŋ ŋɛr kä yɛ kɛ kui̱ teekä ɛmɛ?",
+        "12": "Kä mi te nɛy kɔ̱kiɛn kɛ cuɔ̱ɔ̱ŋ kɛ jek kä mɛmɛ kä yɛ, /ci di̱t ni cuɔ̱ɔ̱ŋda ɛlɔ̱ŋ? Kä cäŋ ɛ jɛn inɔ, /ka̱nkɔ cuɔ̱ɔ̱ŋ ɛmɛ ka̱m rɔ̱. Kä kɛ kui̱c ɛmɔ cakɔ rut ni ti diaal, kä ɣöö /bakɔ mi bum la̱th dup Thukni ti gɔw kɛ kui̱ Kritho.",
+        "13": "Kui̱c yɛn ɛ, ɛn ɣöö nɛy tin ca cɔal läätdä rɛy luaak Kuɔth jëkɛ mi̱ethdiɛn thi̱n, kä nɛy tin lät wi̱i̱ yi̱kä Kuoth nyuakɛ ŋɔaani tin thöpkɛ wi̱i̱ yi̱kä?",
+        "14": "Kä ɛnɔ, ci Kuäär ni Kuoth ɛ lat ɛn ɣöö nɛy tin latkɛ thuk ti gɔw bikɛ nyin teekädiɛn jek kɛ ruac Kuɔth.",
+        "15": "Kä ɣän /ka̱n cuɔ̱ɔ̱ŋ kɛl kä cuŋ ti̱ti̱ ka̱m rɔ, kä /ka̱n warɛgak ɛmɛ gɔ̱r kɛ ɣöö bä duɔ̱ɔ̱r mi ce̱tkɛ mɛmɛ jek thi̱n. Kɛ ɣöö ŋua̱n ni lia̱a̱dä kä ɣöö bi raan luɔt liakädä ɛmɛ mac!",
+        "16": "Kɛ ɣöö mi latdä ni thuk Kuɔth ti gɔw, thilɛ luɔt mi dëë liak ni rɔ, kɛ ɣöö ɛ jɛn min bä la̱t ni jɛ. Kä riɛk akɛ ɣä, mi /cä thuk Kuɔth ti gɔw bi la̱t naath.",
+        "17": "Kä mi la̱tdä ruac ɛmɛ a laar ɣän bä tekɛ muc, kä duundɛ ɣöö mi la̱tdä ruac ɛmɛ a /ci jɛ lar ɣän i̱ bä jɛ la̱t, ɣän la̱tdä ni la̱t mi ca ka̱m ɣä i̱ bä la̱t ɛ Kuoth.",
+        "18": "Kä ɛnɔ, kökdä ɛŋu? Ɛ jɛn ɣöö kɛ latdä kɛ ruac Kuɔth dëë thuk ti gɔw la̱t naath a thil kök. Kɛ kui̱c ɛmɔ /cä thuk Kuɔth lat kɛ kui̱ cuuŋädä.",
+        "19": "Cäŋ lɔarä kä nɛy diaal, kä duundɛ ɣöö cä rɔɔdä jakä kuany kä nɛy diaal, kɛ ɣöö dëë nɛy ti ŋuan ri̱t.",
+        "20": "Kä min la̱tdä kɛɛl kɛ ji̱ Juudh cä rɔɔdä ciɛŋ ce̱tkɛ raan ji̱ Juudh, kɛ ɣöö bä ji̱ Juudh ri̱t. Kä nɛy tin guɔ̱ɔ̱rkɛ ciaŋ ŋuɔ̱tni cä rɔɔdä ciɛŋ ce̱tkɛ ram mi guur ciaŋ ŋuɔ̱tni. Cäŋ /ci ɣän te piny ŋutdä kɛ ɣöö dëë nɛy tin guɔ̱ɔ̱rkɛ ŋuɔ̱t ri̱t.",
+        "21": "Kä nɛy tin te raar ŋutdä cä rɔɔdä ciɛŋ ce̱tkɛ ram mi te raar ŋutdä, kɛ ɣöö bä nɛy tin te raar ŋutdä ri̱t, (a cäŋ /cä lɔr kä ŋut Kuɔth, kä duundɛ ɣöö ta̱a̱ piny ŋutdä Kritho).",
+        "22": "Rɛy nɛɛni tin kɔ̱c cua rɔ jakä ram mi kɔ̱c kɛ ɣöö dëë nɛy tin kɔ̱c ri̱t. Cu ɣän a ti diaal kä nɛy diaal, kɛ ɣöö dɔ̱ŋ dëë tha̱a̱ŋ nath kän kɛ duɔ̱ɔ̱p dee rɔ lot ɔ.",
+        "23": "Ɣän cua jɛ la̱t kɛɛliw kɛ kui̱ thuk Kuɔth ti gɔw, kɛ ɣöö dëë te rɛy nyuaakä puthni thukni tin gɔw.",
+        "24": "Kä /ci yɛn ɛ ŋäc, ɛn ɣöö ji̱ wuurä diaal ko̱o̱ŋni kɛn, kä ɛ ram kɛl ɛn ni̱n bi muc jek? Riŋni inɔ kɛ ɣöö dɔ̱ŋ bi muc ɛmɔ jek.",
+        "25": "Nɛy diaal tin ko̱o̱ŋ kɛ ŋa̱a̱ri yuɔpkɛ rɔ̱ kä ŋɔaani diaal. Lät kɛn ɛ kɛ kui̱ kä ɣöö bikɛ muc mi bi thuuk jek, kä kɔn kööŋnɛ kɛ mi /ci bi met thuuk.",
+        "26": "Ɣän /cä riŋ baaŋ, kä /cä pi̱m ce̱tkɛ ram mi pi̱i̱m ni jiɔam.",
+        "27": "Ɣän cä puɔ̱nydä duäc kä cä jɛ gaŋ kä ŋɔaani, kä inɔ kɛ kɔr kä min cä nɛy kɔ̱kiɛn cɔal wuurä, ca ɣä dee lɛ cany."
+      },
+      "headings": {
+        "2": {
+          "text": "Cuŋ kɛnɛ lät jääkä"
+        }
+      }
+    },
+    "10": {
+      "verses": {
+        "1": "Ɣän göörä ɣöö bia jɛ ŋa̱c, dämaari, ɛn ɣöö te gua̱ndɔɔŋnikɔn diaal bo̱th ɛ pua̱a̱r, kä ci kɛn diaal rët kɛ bar,",
+        "2": "kä cua kɛn diaal lak ala ji̱ kɔaar Muthɛ piny puɔ̱rä kɛnɛ rɛy bar.",
+        "3": "Kä cu kɛn diaal mi̱eth yieekä kɛl cam.",
+        "4": "Kä cu kɛn diaal maath kɛ pi̱ yieekä mɔ kɛl ɔ. Cikɛ maath kä päm yieekä min cikɛ guɔ̱ɔ̱r, ɛn päm ɛmɔ ɛ jɛn Kritho.",
+        "5": "Kä cäŋ ɛ jɛn inɔ, cu Kuoth lɔcdɛ jiääk kɛ ri̱wdiɛn ti ŋuan, kä cuɛ ri̱ŋkiɛn riaw där dɔaar.",
+        "6": "Täämɛ cu ti̱ti̱ tuɔɔk kɛ ala luëëk kɛ kui̱dan, kɛ ɣöö /canɛ ciaŋ ti jiäk bi go̱r ce̱tkɛ kɛ. 7/Cuarɛ kuth baaŋ pal ce̱tkɛ mëë ci tha̱a̱ŋkiɛn ɛ la̱t, ce̱tkɛ min ca gɔ̱r i̱, “Ci naath nyuur, kɛ ɣöö bikɛ mi̱th kä bikɛ maath, kä cukɛ rɔ̱ jiɛc kɛ ɣöö bikɛ duth.” 8/Cuarnɛ duer lät kɛ leer ce̱tkɛ min ci tha̱a̱ŋkiɛn ɛ la̱t, kä cu nɛy ti bathdɔɔri ti jiɛn rɛw wi̱cdɛ diɔ̱k li̱w kɛ jɛn cäŋɔ kɛlɔ.",
+        "9": "Kä /cuarnɛ Kuäär ni Kuoth ɣɔ̱n, ce̱tkɛ mëë ci tha̱a̱ŋkiɛn ɛ la̱t, kä cua kɛ däk ɛ thɔ̱ɔ̱l.",
+        "10": "Kä /cuarnɛ go̱o̱ny, ce̱tkɛ mëë ci tha̱a̱ŋkiɛn ɛ la̱t kä cua kɛ däk ɛ Dääk.",
+        "11": "Cu ti̱ti̱ tuɔɔk kä kɛ ala luek, kä cua kɛ gɔ̱a̱r piny kɛ kui̱ ŋi̱i̱cädan, kɔn nɛy ti ci guut thiak kɛ ben.",
+        "12": "Kä mi caari jɛ ɛn ɣöö bumi, ku rɔ tit, kɛ ɣöö /ci bi tɛɛth.",
+        "13": "Thilɛ ɣɔ̱n mi ci ben kä yɛ, mi /ken tuɔɔk kä nɛy diaal. Kuoth ɛ gua̱n ŋäthä, kä /cɛ yɛ bi pa̱l ɣöö ba yɛ ɣɔam kɛ buɔ̱m mi leny buɔ̱mdun. Kä mi wa yɛ ɣɔam bɛ yɛ moc duɔ̱ɔ̱p känä, kɛ ɣöö bia jɛ luäŋ kɛ ruɔ̱t.",
+        "14": "Kɛ kui̱ ɛmɔ, dämaari, nɔ̱a̱nɛ rɔ̱ kä pal kuthni jiɛn.",
+        "15": "Ruacä ce̱tkɛ mi ruacä kɛ nɛy ti tekɛ ca̱r, yɛn pua̱nykun luɔ̱kɛ mɔ cä la̱r yɛ mɔ.",
+        "16": "Liɛɛr puthä min puɔthnɛ /ciɛ nyuaak kɛ riɛm Kritho? Kä juray in puɔ̱nynɛ /ciɛ nyuaak kɛ puɔ̱ny Kritho?",
+        "17": "Kɛ ɣöö te ni juray kɛl thi̱n, kɔn nɛy ti ŋuan ti̱ti̱ lapnɛ puɔ̱ny kɛl, kɛ ɣöö canɛ nyuak ni ɛn juray ɔ kɛlɔ.",
+        "18": "Carɛ ji̱ I-thɛ-rɛl, nɛy tin camkɛ muc tin thöpkɛ Kuoth /cikɛ a mät guäth mucä?",
+        "19": "Kä ɛŋu mi luɔtdä? Ɛ ɣöö ɛn mi̱eth in ca thöp kuth baaŋ tëëkɛ luɔt, kiɛ jɛn kuoth baaŋ puɔ̱nydɛ tee luɔt ɔ?",
+        "20": "Ëëy, ɣän luɔtdä ni ɣöö, min tho̱p nɛy ti kueckɛ Kuoth ɛ, thöpkɛ jɛ kuth ti jiäk, a /ci mɔ a Kuoth. Kä /cä jɛ go̱r ɛn ɣöö dërɛ rɔ̱ mat kɛ kuth ti jiäk.",
+        "21": "Yɛn /cia dee maath kɛ liɛɛr Kua̱r ni Yecu kä bia maath kɛ liɛɛr kuthni ti jiäk. Kä /cia dee mat guäth mi̱eth Kua̱r ni Yecu kɛnɛ gua̱a̱th mi̱eth kuthni ti jiäk.",
+        "22": "Kiɛ görnɛ ɣöö bi Kuäär ni Kuoth tekɛ tiɛɛl? Kä car nɛ jɛ bum ni kɔn kä jɛ?",
+        "23": "Ŋɔaani diaal luɔtkɛ rɔ̱, kä /cikɛ ŋɔak diaal gɔw tɔ̱. Ŋɔaani diaal luɔtkɛ rɔ̱, kä /cikɛ ŋɔak diaal lua̱kɛ naath tɔ̱.",
+        "24": "A raan /ci go̱r ni mi gɔaa kɛ kui̱dɛ, a jɛ go̱o̱r ni mi gɔaa kɛ kui̱ nɛɛni kɔ̱kiɛn.",
+        "25": "Camɛ ri̱ŋɔ kɔakɛ guäth ko̱kä mɔ, a thil thiec kɛ kui̱ cärä lɔaac.",
+        "26": "Kɛ ɣöö “piny ɛ duŋ Kua̱r ni Kuoth amäni ŋɔaani diaal tin te rɛydɛ.”",
+        "27": "Mi ca yɛ cɔl ɛ nɛy ti /ci Kuɔth ŋäth, kä nhɔakɛ wä, camɛ mɔ ca kuëŋ nhiamdun ɔ a thil thiec kɛ kui̱ cärä lɔaac.",
+        "28": "Kä mi ci raan yɛ jiök i̱, “Mɛmɛ ca thöp ala muc kɛ kui̱ kuɔth,” ɛnɔ /cuarɛ jɛ cam, kɛ kui̱ raam in ci jɛ kɛnɛ kui̱ cärä lɔaac.",
+        "29": "Ɣän luɔtdä ni ca̱r lɔaac raam ɛmɔ, a /ci mɔ a ca̱r lɔaacdun inɔ dɔ̱ŋ dee raan thiec i̱, “Kɛ kui̱ ŋukä bä ciaaŋdä päl kɛ kui̱ cärä lɔaac raam mi dɔ̱diɛn ɔ?",
+        "30": "Mi mi̱ethä kɛ tɛ̈th lɔaac, ɛŋu bä ɣä lat jɔ̱ɔ̱r ɔ kɛ kui̱ kä mi cä Kuoth la̱t tɛ̈th lɔaac kɛ jɛ?”",
+        "31": "Kä ɛnɔ, mi mi̱th yɛn kiɛ mäth yɛn, kiɛ ɛn duɔ̱ɔ̱r ɔ bia la̱t ɔ, la̱tdɛ kɛn diaal kɛ kui̱ puɔnyä Kuɔth. 32/Cuarɛ ji̱ Juudh kiɛ ji̱ Gɛ-rith, kiɛ duel Kuɔth moc kɛ riɛk,",
+        "33": "ce̱tkɛ min cä jɛ ɣɔ̱n ɛn ɣöö bä lo̱c nɛɛni diaal jakä tɛth kä ti diaal tin la̱tdä, kä /cä go̱r ni mi gɔaa kɛ kui̱dä, ɛ mi gɔaa kɛ kui̱ nɛɛni ti ŋuan ɛn ɣöö dee kɛ kään."
+      },
+      "headings": {
+        "1": {
+          "text": "Lär lär kɛ kui̱ jiäkni"
+        },
+        "23": {
+          "text": "Ŋäc ciɛŋä gɔɔyä"
+        }
+      }
+    },
+    "11": {
+      "verses": {
+        "1": "Kuɛ̈ɛ̈ ɣä nyiath, ce̱tkɛ min nyiathä Kritho.",
+        "2": "Ɣän liakä yɛ kɛ ɣöö cia ɣä tim rɛy ŋɔaani diaal, kä cia guɔ̱ɔ̱r ni ŋi̱i̱cni ce̱tkɛ tëë cä ka̱m yɛ.",
+        "3": "Kä duundɛ ɣöö göörä ɣöö bia jɛ ŋa̱c ɛn ɣöö wi̱c wutni diaal ɛ Kritho, kä wi̱c ciëk ɛ cɔwdɛ, kä wi̱c Kritho ɛ jɛn Kuoth.",
+        "4": "Kä wut ɔ bi pal kiɛ bi ruac go̱o̱kä lat ɔ a te wi̱cdɛ kɛ kum, jakɛ ni wi̱cdɛ kä po̱c,",
+        "5": "kä duundɛ ɣöö ciek ɔ bi pal kiɛ bi ruac go̱o̱kä lat ɔ kɛ wi̱c mi /ka̱n kum, jakɛ ni wi̱cdɛ kä po̱c, päärɛ kɛ ciek mi ca wi̱cdɛ mut.",
+        "6": "Kɛ ɣöö mi /ci ciek wi̱cdɛ bi kum, ŋua̱n ni ɣöö bɛ mi̱emkɛ tëm. Kä mi ɛ pöc kä ciek ɛn ɣöö ba mi̱emkɛ tëm kiɛ ba wi̱cdɛ mut, a jɛ kum wi̱cdɛ kɛ bi̱i̱.",
+        "7": "Kä gɔaa ni ɣöö /ci wut wi̱cdɛ bi kum, kɛ ɣöö ɛ cät kä ɛ gɔɔy puɔnyä Kuɔth. Kä duundɛ ɣöö ciek ɛ wuɔ̱t wutdä.",
+        "8": "Kɛ thuɔ̱k /ka̱n wut cak kä ciek, ɛ ciek ɛn ni̱n cakɛ kä wut.",
+        "9": "Kä /ka̱n wut cak kɛ kui̱ ciëk, kä ɛ ciek kɛ kui̱ wutdä.",
+        "10": "Kɛ kui̱c ɛmɔ gɔaaɛ ɛn ɣöö dee ciek wi̱cdɛ kum mi la nyuuth bumä kɛ kui̱ jaakni nhial.",
+        "11": "Kä rɛy teekädan, rɛy Kua̱r ni Yecu /ci ciek te kärɔa a thil wut kä /ci wut te kärɔa a thil ciek.",
+        "12": "Kɛ ɣöö ce̱tkɛ min ca ciek cak kä wut, ɛnɔ wut diëthkɛ jɛ ɛ ciek. Kä duundɛ ɣöö ti diaal bäkɛ kä Kuoth.",
+        "13": "Carɛ jɛ ɛ yɛn, gɔaaɛ kɛ ciek ɛn ɣöö bɛ Kuoth pal a /kenɛ wi̱cdɛ kum rɛy nath?",
+        "14": "Kä /ci ciaŋ ɛ nyuth yɛ ɛn ɣöö ciaŋ wutdä kɛ mi̱em ti ba̱a̱r ba̱a̱r nöŋkɛ jɛ pöc,",
+        "15": "kä duundɛ ɣöö ciaaŋ ciëk kɛ mi̱em ti ba̱a̱r ba̱a̱r /ciɛ liak kä jɛ? Kɛ ɣöö ka̱mkɛ jɛ mi̱emkɛ kɛ kui̱ kä ɣöö ba jɛ kum.",
+        "16": "Mi tëëkɛ ram mi ŋak mɛmɛ, min dëë lar ɛ ɣöö thilɛ kɔn ciaaŋ mi ce̱tkɛ nɔ, kä thilɛ ji̱ dolä Kuɔth ciaaŋ mi ce̱tkɛ nɔ.",
+        "17": "Kä täämɛ kɛ nyuuthni ti bëë ti, ɣän /cä yɛ liak, kɛ ɣöö mi cia ben guäth kɛl, /ciɛ kɛ kui̱ kä mi gɔaa, duundɛ ɣöö kui̱ kä mi jiääk.",
+        "18": "Kɛ ɣöö, mi cia ben kɛɛl ala ji̱ dolä Kuɔth, ɣän liɛŋä jɛ ɛn ɣöö tëëkɛ dääk kamnikun, kä cua jɛ ŋäth kɛ tha̱a̱ŋdɛ.",
+        "19": "Kɛ thuɔ̱k bɛ dhil tekɛ dääk rɛydun, kɛ kui̱ kä ɣöö ba jɛ ŋa̱c kɛ ŋaani la nɛɛ Kuɔth ɔ.",
+        "20": "Mɔ cia mat guäth kɛl ɔ, /ciɛ mi̱eth Kua̱r ni Yecu ɛnɔ camɛ mɔ.",
+        "21": "Kɛ ɣöö mɔ ci gua̱a̱th mi̱eth cop ɔ la ramɔ mi̱ethdɛ cua cam, kä näk buɔth tha̱a̱ŋ nath, kä yɔ̱ŋ tha̱a̱ŋ nath tin kɔ̱ŋ kɛ kɔaaŋ.",
+        "22": "Ɛŋu! Thilɛ yɛ ciëëŋ ti mi̱ethɛ kä ma̱thɛ thi̱n? Kiɛ ɛ ɣöö bia luaak Kuɔth lat jɔ̱ɔ̱r, kä bia nɛy tin thil ŋu jakä po̱c? Ɛŋu mi bä la̱r yɛ? Ɣän dëë yɛ liak kɛ ɛnɛ? Ëëy, /cä yɛ bi liak!",
+        "23": "Kɛ ɣöö ŋi̱i̱c ëë cä jek kä Kuäär ɛ jɛn ɛ ni̱n cä ka̱m yɛ, kɛ ɣöö, jɛn Kuäär ni Yecu kɛ wäär ëë kɔakɛ ni jɛ, cuɛ juray ka̱n,",
+        "24": "kä mëë cɛ tɛ̈th lɔaac lar, cuɛ jɛ puɔ̱ny kä cuɛ wee i̱, “Mɛmɛ ɛ puɔ̱nydä, min cä thöp yɛ. La̱tdɛ mɛmɛ ala ti̱emdun kɛ ɣä.”",
+        "25": "Kä kɛ jɛn duɔ̱ɔ̱p ɛmɔ bä kɛ kɔr mi̱eth, cuɛ liɛɛr ka̱n, kä cuɛ wee i̱, “Liɛɛr ɛmɛ ɛ mat ruac in pay tuɔɔk kɛ riɛmdä. Kä ɛn guäthɔ bi yɛn jɛ a maath thi̱n ɔ, la̱tdɛ jɛ ala ti̱emdun kɛ ɣä.”",
+        "26": "Kɛ ɣöö gua̱thni diaal tɔ̱ bi yɛn juray ɛmɛ cam kä ma̱thɛ kɛ liɛɛr ɛmɛ, bi yɛn lia̱a̱ Kua̱r ni Yecu lat amäni mi cɛ ben.",
+        "27": "Ram mi wä juray wä cam kiɛ mäth kɛ liɛɛr Kua̱r ni Yecu kɛ duɔ̱ɔ̱p mi /ci gɔaa bɛ duer kɛ yäri pua̱ny kɛnɛ riɛm Kua̱r ni Yecu.",
+        "28": "A raan caar rɔɔdɛ kɛ nhiam, bɛ kulɛ juray cam kä bɛ maath kɛ liɛɛr.",
+        "29": "Kɛ ɣöö ram mi mi̱th kä mäth a /kenɛ puɔ̱ny Yecu kɔŋ ŋa̱c, camkɛ kä ma̱thkɛ ni rɔ̱ luk Kuɔth.",
+        "30": "Ɛ jɛn ɛn ni̱n kɔ̱c kɛ yɛ, kä te nɛy ti ŋuan kɛ jua̱th, kä ci tha̱a̱ŋkun li̱w.",
+        "31": "Kä mi luɔ̱knɛ rɔ̱, /ca kɔn bi luk.",
+        "32": "Kä mi luɔ̱kɛ kɔn ɛ Kuäär ni Yecu, ca kɔn tɔ̱ŋ kɛ kui̱ kä ɣöö /ca kɔn bi kuɛth kɛɛl kɛ ɣɔw.",
+        "33": "Kä ɛnɔ, dämaari, mi cia rɔ̱ dol guäth kɛl kɛ ɣöö bia mi̱eth Kua̱r ni Yecu cam, liɛpɛ rɔ̱.",
+        "34": "Mi na̱kɛ raan ɛ buɔth a jɛ mi̱th cieŋ, kɛ ɣöö /ca yɛ bi luk mi wiaa wä mat kɛɛl. Kɛ kui̱ ŋɔaani tin kɔ̱kiɛn bäkɛ ben la̱t yɛ mi wa̱a̱ wä ben."
+      },
+      "headings": {
+        "2": {
+          "text": "Kum wuɔ̱thni mi pal naath"
+        },
+        "17": {
+          "text": "Mi̱eth Kua̱r ni Yecu",
+          "reference": "(Mɛ̈t 26:26-29, Mak 14:22-25, Luk 22:14-20)"
+        }
+      }
+    },
+    "12": {
+      "verses": {
+        "1": "Täämɛ dämaari rɛy Kritho, ɣän /cä jɛ go̱r ɛn ɣöö bia a nɛy ti /ka̱n la̱r lär kɛ kui̱ mucni yieekä.",
+        "2": "Yɛn ŋa̱cɛ jɛ mëë thilɛ yɛ ŋa̱th, cua yɛ böth palä kuthni jiɛn ti /ci ruac.",
+        "3": "Kɛ kui̱ ɛmɔ ɣän göörä ɣöö bɛ wä lo̱cnikun ɛn ɣöö thilɛ ram mi ruac kɛ Yiëë Kuɔth mi dee wee i̱, “A lam tekɛ Yecu!” Kä thilɛ ram mi dee wee i̱, “Yecu ɛ Kuäär,” ɛ ni mi tëëkɛ Yiëë in Gɔaa in Rɛl Rɔ.",
+        "4": "Täämɛ tëëkɛ muc ti gööl, kä ɛ jɛn Yiëë ɔ kɛl ɔ.",
+        "5": "Kä tëëkɛ lät ti gööli, kä duundɛ ɣöö Kuäär ɛ kɛl.",
+        "6": "Kä tëëkɛ luäŋ lätni ti gööl, kä duundɛ ɣöö ɛ Kuoth kɛl ɛ ni̱n läth lua̱ŋ lätni diaal rɛy nɛɛni diaal.",
+        "7": "Ka̱mkɛ ramɔ muc Yieekä kɛ kui̱ gɔɔyä nɛɛni diaal.",
+        "8": "Ka̱mkɛ ram kɛl muc ruac pɛlä ɛ Yiëë, kä kämɛ ram in dɔ̱ŋ muc ruac ŋäcä ŋɔaani ɛ jɛn Yiëë ɔ kɛl ɔ.",
+        "9": "Jɛn Yiëë ɛmɔ mocɛ ram kɛl ŋa̱th, kä kämɛ ram in dɔ̱ŋ muc jakä nath kä gɔw ɛn Yiëë ɔ kɛl ɔ.",
+        "10": "Ɛn yiëë cɛ ram kɛl moc lua̱ŋ lätni ti ga̱ykɛ naath, kɛ cɛ min dɔ̱ŋ moc kɛ ruac go̱o̱kä, kä cɛ min dɔ̱ŋ moc kɛ lua̱ŋ mi ŋäcɛ yiey ti gɔw kɛnɛ ti jiäk, kɛ cɛ min dɔ̱ŋ moc kɛ lua̱ŋ ruac kɛ thuk ti kueckɛ, kä cɛ min dɔ̱ŋ moc kɛ lua̱ŋ lucä thukni.",
+        "11": "Kä kɛn muc gööli ti̱ti̱ diaal lätkɛ ni ɛn Yiëë ɔ kɛl ɔ, ce̱tkɛ min go̱o̱rɛ cɛ ram ɔ ka̱m muc mi göl.",
+        "12": "Ce̱tkɛ min puɔ̱ny ran ɛ kɛl, kä tëëkɛ cuŋ ti ŋuan, kä cuŋ pua̱a̱ny diaal tekɛ puɔ̱ny kɛl, cäŋ ŋuankɛ, inɔ ɛ jɛn ta̱a̱ Kritho bä.",
+        "13": "Kɛ ɣöö rɛy Yieekä kɛl ca kɔn diaal lak puɔ̱ɔ̱ny kɛl, (ji̱ Juudh, kiɛ ji̱ Gɛ-rith, kuaany kiɛ nɛy ti lɔr) ca kɔn diaal jakä mäth kɛ Yiëë kɛl.",
+        "14": "Kɛ thuɔ̱k puɔ̱ny /cɛ tekɛ cuɔ̱ŋ kɛl, kɛ cuŋ ti ŋuan.",
+        "15": "Mi laar pät cio̱kä jɛ i̱, “Kɛ ɣöö /ciɛ ɣän pät tetdä, /ciɛ ɣän cuɔ̱ŋ pua̱a̱ny,” /ciɛ jɛn ɛ ni̱n dee jɛ jakä ɣöö /ciɛ tha̱a̱ŋ pua̱a̱ny.",
+        "16": "Kä mi laar ji̱th jɛ i̱, “Kɛ ɣöö /ciɛ ɣän waŋ, /ciɛ ɣän tha̱a̱ŋ pua̱a̱ny,” /ciɛ jɛn ɛ ni̱n dee jɛ jakä ɣöö /ciɛ tha̱a̱ŋ pua̱a̱ny.",
+        "17": "Kä mi puɔ̱ny kɛɛliw ɛ waŋ, dee li̱eŋ te ni? Kä mi puɔ̱ny kɛɛliw ɛ ji̱th, dee ŋua̱c te ni?",
+        "18": "Kä duundɛ ɣöö kɛ ta̱a̱dɛ inɔ, ci Kuoth cuŋ pua̱ny diaal guir, cuɔ̱ŋɔ kä kɛ ce̱tkɛ min go̱o̱rɛ.",
+        "19": "Kä mi kɛn diaal ɛ cuɔ̱ŋ kɛl, dee puɔ̱ny te ni?",
+        "20": "Kä duundɛ ɣöö kɛ ta̱a̱dɛ inɔ, cuŋ ŋuankɛ, kä ŋotdɛ puɔ̱ny ɛ kɛl.",
+        "21": "Waŋ /cɛ tet dee jiök i̱, “/Ci ɣän ji̱ go̱r,” kä /ci wi̱c pa̱a̱t cio̱o̱k dee jiök i̱, “/Ci ɣän ji̱ go̱r.”",
+        "22": "A gua̱c kɛ nɔmɔ pa̱ny, kɛn cuŋ pua̱ny, tin caar naath kɛ i̱ nyuän ni kɛn tekɛ kɛ luɔt.",
+        "23": "Kä cuŋ pua̱ny tin kuiy luthdan kɛ kɛ, kɛ kɛn tin ciaŋnɛ luthä ɛlɔ̱ŋ, kä cuŋ pua̱ny tin tiɛtni yuɔpnɛ kɛ ɛlɔ̱ŋ,",
+        "24": "kä /ci cuŋ pua̱a̱ny tin luɔ̱th nɛ tɔ̱tɔ̱ go̱r. Kä Kuoth cɛ puɔ̱ny rialikä inɔ, a mocɛ cuɔ̱ŋ mi tɔt luth mi di̱i̱t.",
+        "25": "Kä inɔ thilɛ puɔ̱ny dääk, kä duundɛ ɣöö dee cuŋ diaal ram ɔ tit.",
+        "26": "Mi bɛc cuɔ̱ŋ kɛl bɛckɛ kɛn diaal kɛɛl, kä mi luɔ̱thkɛ cuɔ̱ŋ kɛl bi cuŋ diaal lo̱ckiɛn tɛɛth kɛɛl.",
+        "27": "Täämɛ kɛ yɛn puɔ̱ny Kritho, kä lapɛ cuŋ pua̱nydɛ kɛ̈l kɛ̈ɛ̈li.",
+        "28": "Kä ci Kuoth naath kuany rɛy duëël Kuɔth, kɛ nhiam jaak, kɛ rɛwdɛ göök, diɔ̱ɔ̱kdiɛn ŋi̱eec, kɛ nɛy ti la̱tkɛ ti ga̱ykɛ naath, kɛ nɛy tin jakɛ naath kä gɔw, kɛ lua̱a̱k nath, kɛ ruëëc nath, amäni nɛy ti ruac kɛ thuk gööli.",
+        "29": "Kɛn ti̱ti̱ diaal kɛ jaak? Kɛn diaal kɛ göök? Kɛn diaal kɛ ŋi̱eec? Lät kɛn diaal ti ga̱ykɛ naath?",
+        "30": "Te kɛn diaal kɛ muc luäŋä jakä nath kä gɔw? Ruac kɛn diaal kɛ thuk ti kueckɛ? Te kɛn diaal kɛ lua̱ŋ lucädiɛn?",
+        "31": "Kä inɔ görɛ ni lua̱ŋ mucni tin di̱t. Kä bä yɛ nyuɔ̱th duɔ̱ɔ̱p in gɔaa ni jɛn ɛlɔ̱ŋ."
+      },
+      "headings": {
+        "1": {
+          "text": "Muc kä Yiëë in Gɔaa in Rɛl Rɔ"
+        },
+        "12": {
+          "text": "Puɔ̱ny kɛl mi tekɛ cuŋ ti ŋuan"
+        }
+      }
+    },
+    "13": {
+      "verses": {
+        "1": "Mi ruacä kɛ thuk nath kiɛ kɛ thuk ja̱a̱kni nhial, kä thilɛ ɣä nhök, ɣän ca̱tdä kɛ löth mi ro̱t, kiɛ jɔw dëthni ti ta̱thkɛ.",
+        "2": "Kä mi ta̱a̱kɛ lua̱ŋ go̱o̱kä, kä ŋa̱cä ti diaal ti cua̱ŋkɛ naath, kä ta̱a̱kɛ ŋäc ŋɔaani diaal, kä ta̱a̱kɛ ŋa̱th kɛɛliw mi dëë woc ni pääm gua̱thnikiɛn, kä duundɛ ɣöö thilɛ ɣä nhök, ɛ ɣän baŋ.",
+        "3": "Mi da̱kä nyinkä diaal kä piny, kä thöpä puɔ̱nydä kɛ ɣöö ba waŋ, kä thil ɣä nhök, thilɛ mi jëkä thi̱n.",
+        "4": "Nhök ɛ päl piny, kä ɛ gɔɔy. Nhök thilɛ jɛ tiɛɛl, kiɛ ŋuën kiɛ liak kɛ rɔ,",
+        "5": "kä /ciɛ jua̱ŋ jua̱ŋ, kä /ciɛ rɛŋ. Nhök /cɛ naath kok kɛ ca̱rɛ kärɔa, /cɛ mal a ŋɔ̱a̱ŋɛ, kä /cɛ naath ŋuɛn.",
+        "6": "Nhök /ci lɔcdɛ tɛth kɛ mi jiääk, duundɛ ɣöö tɛth lɔcdɛ kɛ mi la thuɔ̱k.",
+        "7": "Nhök ruutdɛ ŋɔaani diaal, kä ŋääthɛ ŋɔaani diaal, ŋääthɛ ŋɔak diaal ti bi ben, kä dhi̱i̱lɛ ŋɔaani diaal.",
+        "8": "Nhök /cɛ thuk. Kä duundɛ ɣöö bi ruaacni go̱o̱kä thuuk, kä bi ruaacni thukni ti kueckɛ cuɔ̱ŋ, kä bi ŋäc ŋɔaani thuuk.",
+        "9": "Kɛ ɣöö ŋäc ŋɔaanidan tëëkɛ diw, kä ruac go̱o̱kädan tëëkɛ diw.",
+        "10": "Kä mi wä min thil diw ben, bi min tekɛ diw thuuk.",
+        "11": "Mëë ɛ ɣän gat, cua̱ ruac ce̱tkɛ gat, kä cua̱ ca̱r ce̱tkɛ gat, kä cua̱ luɔt ŋɔaani lat ce̱tkɛ gat. Kä mëë cä di̱t, cua̱ ciaŋ gaatädä päl.",
+        "12": "Kɛ ɣöö ɛn täämɛ, guɛcnɛ rɔ̱ rɛy neenä ɛ mi̱r mi̱r, kä duundɛ ɣöö banɛ Kuoth guic agɔaa. Täämɛ ŋäcdä tëëkɛ diw, kä bä ŋɔak ŋa̱c kɛn diaal, ce̱tkɛ mëë ca ɣä ŋa̱c ɛ Kuoth.",
+        "13": "Kä ɛn täämɛ, ti̱ti̱ da̱ŋ diɔ̱k tekɛ thi̱n, ŋa̱th, kɛ ŋa̱th kɛ ti bi ben, kɛnɛ nhök, kä min di̱t ni jɛn ɛlɔ̱ŋ kä kɛn ti̱ti̱ ɛ nhök."
+      },
+      "headings": {
+        "1": {
+          "text": "Nhök ɛ muc mi di̱i̱t ɛlɔ̱ŋ"
+        }
+      }
+    },
+    "14": {
+      "verses": {
+        "1": "Guɔ̱ɔ̱rɛ ni nhök, kä görɛ ni muc yieekä kɛ lɔcdun kɛɛliw, min la muc ruac go̱o̱kä.",
+        "2": "Kɛ ɣöö nɛy tin ruac kɛ thok gööli ruackɛ kɛ Kuoth, /cikɛ ruac kɛ naath, kɛ ɣöö thilɛ ram mi liŋ kɛ. Latkɛ ti cua̱ŋkɛ naath rɛy Yieekä.",
+        "3": "Kä kɛ pek in dɔ̱ŋ, ram mi lat ruaacni go̱o̱kä ruacɛ kɛ naath kɛ kui̱ pi̱ethdiɛn, kɛnɛ cuɔ̱mdiɛn, kɛ buɔ̱mdiɛn.",
+        "4": "Kä nɛy tin ruac kɛ thuk gööli piɛthkɛ ni rɔ̱, kä nɛy tin lat ruaacni go̱o̱kä piɛthkɛ ni duel Kuɔth.",
+        "5": "Täämɛ ɣän göörä ɣöö bi yɛn diaal ruac kɛ thuk ti kueckɛ, kä min göörä ɛlɔ̱ŋ ɛ ɣöö bia ruaacni go̱o̱kä lat. Kä ram in lat ruaacni go̱o̱kä, lenyɛ ram in ruac kɛ thuk gööli, ɛ ni mi ci raan ɛ loc kɛ ɣöö bɛ duel Kuɔth kulɛ pith.",
+        "6": "Täämɛ dämaari, mi ba̱a̱ kä yɛ a ruacä kɛ thuk ti kueckɛ, dëë yɛ luäk i̱di, /ciɛ ni mi nöŋä ni yɛ nyuuth kiɛ ŋäc ŋɔaani, kiɛ ruac go̱o̱kä, kiɛ ŋi̱i̱c?",
+        "7": "Ce̱t ta̱a̱diɛn kɛ ŋɔak ti /ci tëk tin nööŋkɛ, ce̱tkɛ kuɔ̱th kaaŋä kiɛ tuŋ, kɛ jiööth ti /ca rɔ̱ lot, dee raan min kuɔthkɛ ŋa̱c i̱di?",
+        "8": "Kä mi /ci jɔw kaaŋä köör ro̱t agɔaa, ɛŋa mi bi rɔɔdɛ rialikä kɛ kui̱ köör?",
+        "9": "Ɛ jɛn inɔ kɛ kui̱dun, mi ruac yɛn kɛ thuk gööli ti /ci cup lɔɔc nath, dee raan min ca lat ŋa̱c i̱di? Kɛ ɣöö inɔ bi ruacni ji̱n kɛ jiɔam.",
+        "10": "Thilɛ diw ɛn ɣöö tëëkɛ thuk ti ŋuan rɛy ɣɔaa, kä thilɛ kɛl mi thil luɔt kä kɛ.",
+        "11": "Kä mi kuecä luɔt thuɔk, bä a juɔ̱r kä ram in ruac, kä bi ram in ruac a juɔ̱r kä ɣä.",
+        "12": "Ɛ jɛn inɔ kɛ kui̱dun, kä min görɛ mucni yieekä ɛlɔ̱ŋ, görɛ ni mucni tin ba naath jakä piɛthkɛ ni duel Kuɔth agɔaa.",
+        "13": "Kɛ kui̱ ɛmɔ, gɔaa ni ɣöö bi ram in ruac kɛ thok go̱lä pal kɛ ɣöö bɛ min cɛ lat loc.",
+        "14": "Kɛ ɣöö mi palä kɛ thok go̱lä, yiëëdä palɛ, kä ca̱rä cɛ lät.",
+        "15": "Ɛŋu mi bä la̱t? Ɣän bä pal kɛ yiëë, kä bä pal kɛ ca̱r wec bä. Ɣän bä kiet kɛ yiëë, kä bä kiet kɛ ca̱r wec bä.",
+        "16": "Kä mi pothi Kuoth kɛ yiëë, dee juɔ̱r, mi /kenɛ cop lɔcdɛ, ɛ lar i̱di, “Inɔnɔ” kɛ palu, mi kui̱cɛ min latdi?",
+        "17": "Kɛ ɣöö dɔ̱ŋ ci tɛ̈th lɔaac lar a ro̱ŋ, kä /ken ram in dɔ̱ŋ ben nhial.",
+        "18": "Ɣän la̱rä Kuoth tɛ̈th lɔaac ɛn ɣöö lënyä yɛn diaal kɛ ruac thukni ti kueckɛ.",
+        "19": "Kä rɛy duëël Kuɔth dëë lat ni rieet da̱ŋ dhieec kɛ ca̱rä rɛy, kɛ ɣöö bä nɛy tin kɔ̱kiɛn ŋi̱eec, kä ɣöö dëë lat ni rieet ti bathdɔɔri wäl kɛ thok go̱lä.",
+        "20": "Dämaari kä nyiemaari, /cuarɛ bi ce̱tkɛ gaat rɛy cärädun, a cär ni yɛn ce̱tkɛ ruɔri rɛy kä mi jiääk, kä duundɛ ɣöö ca̱rɛ ce̱tkɛ nɛy ti di̱t.",
+        "21": "Rɛy ŋuɔ̱t ca jɛ gɔ̱r i̱, “Kɛ nɛy ti tekɛ thok go̱lä, kɛ nɛy ti tekɛ lëëp gööli ɣän bä ruac kɛ nɛy ti̱ti̱, kä cäŋ ɛ jɛn inɔ, /cikɛ ɣä bi liŋ.” Ruac ni Kuäär ni Kuoth.",
+        "22": "Kä ɛnɔ thuk ti kueckɛ ɛ nyuuth mi /ci mɔ akɛ kui̱ ji̱ ŋäthä, duundɛ ɣöö ɛ kui̱ nɛɛni ti thil ŋa̱th. Kä ruac go̱o̱kä /ciɛ kɛ kui̱ nɛɛni ti thil ŋa̱th, duundɛ ɣöö ɛ kui̱ ji̱ ŋäthä.",
+        "23": "Kä mi, ci duɔl ji̱ Kuɔth ben guäth kɛl kä ruac kɛn diaal kɛ thuk ti kueckɛ, kä bi ja̱a̱l kiɛ nɛy ti thil ŋa̱th ben rɛc, /cikɛ jɛ dee lar ɛn ɣöö cia yɔ̱ŋ?",
+        "24": "Kä mi lat yɛn diaal ni ruaacni go̱o̱kä, kä bi ja̱l kiɛ ram mi thil ŋa̱th ben rɛc, jɛn derɛ duerɛ jek kä kɛn diaal kä ba jɛ luk kɛ tin diaal tin cɛ liŋ.",
+        "25": "Kä kɛ kɔr kä min ca nyin lɔaac raam in /ci ŋa̱th nööŋ raar, jɛn ram ɛmɔ bɛ rɔ goŋ nhiam Kuɔth kä palɛ jɛ, kä bɛ jɛ la̱r i̱, “Kuoth a rɛydun pa̱ny.”",
+        "26": "Ɛŋu mi dëë la̱t, dämaari? Mi wä yɛn ben guäth kɛl, te ramɔ kɛ dit, kɛ ŋi̱i̱c, kɛ nyuuth, kɛ thok go̱lä, kiɛ luɔc ŋɔaani. A ŋɔaani diaal latkɛ kɛ kui̱ pi̱thä nath.",
+        "27": "Mi tëë ram mi ruac kɛ thok go̱lä, a ruac ni nɛy da̱ŋ rɛw kiɛ diɔ̱k kärɔ̱, kä ɛ ramɔ la ruac, kä a ram kɛl lat luɔcdɛ.",
+        "28": "Kä mi thilɛ ram mi lat luɔcdɛ, a ramɔ bit rɛy duëël Kuɔth, kä a jɛ ruac kärɔ̱ kä akɛ ruac kɛ Kuoth.",
+        "29": "A göök rɛw kiɛ diɔ̱k latkɛ ruaacni go̱o̱kä, kä a nɛy kɔ̱kiɛn thɛ̈mkɛ tin ca lar.",
+        "30": "Mi ca nyuuth ka̱m ram min nyuur gekä, a ram min ruac kɛ nhiam bit.",
+        "31": "Kɛ ɣöö dee yɛn diaal ruac go̱o̱kä lat kɛ̈l kɛ̈ɛ̈li, kɛ ɣöö dee nɛy diaal tekɛ ŋäc, kä dee kɛn diaal cu buɔ̱m.",
+        "32": "Kä yiey göökni tëë piny göökni.",
+        "33": "Kɛ ɣöö Kuoth /ciɛ Kuoth nyuɔɔni, ɛ Kuoth malä. (Ce̱tkɛ min te rɛy duëli Kuɔth nɛɛni Kuɔth diaal,",
+        "34": "gɔaa ni ɣöö bi män biɛt rɛy duëli Kuɔth. Kɛ ɣöö /ka̱n kɛ nhök ruac, duundɛ ɣöö bikɛ guɔ̱ɔ̱r ni naath, ce̱tkɛ min ca lar ɛ ŋut.",
+        "35": "Mi tëëkɛ mi görkɛ ɛ kɛn ɛn ɣöö ba ŋa̱c, akɛ thiëckɛ cɔwkiɛn cieŋ. Kɛ ɣöö ɛ pöc ɛn ɣöö bi ciek ruac rɛy duëël Kuɔth.",
+        "36": "Kiɛ ɛn ruac Kuɔth tuɔɔk kä yɛ? Kiɛ ci ruac Kuɔth peek kɛ yɛn kärɔ̱?)",
+        "37": "Mi caar raan ɛ ɛn ɣöö ɛ gök, kiɛ tëë kɛ buɔ̱m yieekä, derɛ jɛ ŋa̱c ɛnɛ gɔ̱a̱rä yɛ mɛ, ɛn ɣöö ɛ guk kä Kuäär ni Yecu.",
+        "38": "Mi /ci raan mɛmɛ ŋäc, jɛn /ca jɛ bi ŋa̱c.",
+        "39": "Kä ɛnɔ, dämaari, görɛ jɛ ɛn ɣöö bia ruaacni go̱o̱kä lat, kä /cuarɛ ruac kɛ thuk ti kueckɛ pen,",
+        "40": "kä duundɛ ɣöö ba ŋɔak diaal guir kɛ ciaŋ mi com."
+      },
+      "headings": {
+        "1": {
+          "text": "Tho̱p mucni go̱o̱kä kɛnɛ thuk ti gööl"
+        },
+        "26": {
+          "text": "Ciaaŋ palä rɛy duëël Kuɔth"
+        }
+      }
+    },
+    "15": {
+      "verses": {
+        "1": "Täämɛ dämaari, ɣän ti̱emä yɛ thuk Kuɔth ti gɔw tëë cä la̱t yɛ, tëë cia jek, kä cia cuɔ̱ŋ thi̱n.",
+        "2": "Kɛ kɛn tin ka̱n kɛ yɛ, mi ka̱pɛ kɛ a bum kɛn tëë cä la̱t yɛ (ɛ ni mi ŋa̱thdun ɛ lɔar.",
+        "3": "Kɛ ɣöö cä yɛ ka̱m min di̱t ni jɛn ɛlɔ̱ŋ, min cä jek bä. Ɛn ɣöö ci Kritho li̱w kɛ kui̱ dueerikɔn, ce̱tkɛ min ca gɔ̱r rɛy ruaacni Kuɔth,",
+        "4": "cua jɛ kony, kä ca jɛ jiɛc li̱th kɛ diɔ̱ɔ̱k ni̱ni, ce̱tkɛ mi ca gɔ̱r rɛy ruaacni Kuɔth,",
+        "5": "ɛn ɣöö cɛ päl kä Thi̱i̱-päth kä cɛ päl kä jaak da̱ŋ wäl rɛw.",
+        "6": "Kä cuɛ päl kä nɛy ti la̱nykɛ kur dhieec kä ji̱ kɔaarɛ guäth ɔ kɛlɔ, ti ŋot ri̱wdiɛn teekä, cäŋ ni min ci tha̱a̱ŋkiɛn li̱w.",
+        "7": "Cuɛ päl kä Je-mɛth, kä cuɛ päl kä jaak diaal.",
+        "8": "Kä kɛ jɔakdɛ cuɛ päl kä ɣä bä, ɣän ram mi ca dap kɛ gua̱a̱th mi /ci a gua̱a̱thdɛ.",
+        "9": "Kɛ ɣöö ɛ ɣän jak in kuiy ni jɛn, mi /ci ro̱ŋ kɛ ɣöö ba cɔl i̱ jak, kɛ ɣöö cä duel Kuɔth kɔŋ moc riɛk.",
+        "10": "Kä duundɛ ɣöö kɛ puɔ̱th Kuɔth ɛ jɛn ɣän min mɔ ɣän, kɛ ɣöö /ken puɔ̱th baaŋdɛ a lɔar kä ɣä. A gua̱c kɛ mɔmɔ ɣän cä lät a bum ɛlɔ̱ŋ kä kɛn diaal,) cäŋ /ciɛ ɣän lätdɛ mɔ, ɛ puɔ̱th Kuɔth in tekɛ ɣä.",
+        "11": "Mi ɛ ɣän latdɛ mɔ kiɛ kɛn, cakɔ ruac Kuɔth lat, kä cia cu ŋa̱th.",
+        "12": "Täämɛ, mi latkɔ jɛ ɛn ɣöö ca Kritho jiɛc li̱th, ɛŋu laar tha̱a̱ŋkun ɛ ɛn ɣöö thilɛ jiëc nath li̱th ɔ?",
+        "13": "Kä mi thilɛ jiëc nath li̱th, kä /ka̱n Kritho jiɛc li̱th.",
+        "14": "Kä mi /ka̱n Kritho jiɛc li̱th, latdä kɛ ruaacni Kuɔth ɛ baŋ, kä ŋa̱thdun ɛ baŋ.",
+        "15": "Kä kɔn cakɔ duer kɛ lat ruaacni Kuɔth, kɛ ɣöö cakɔ jɛ lar ɛn ɣöö Kuoth cɛ Kritho jiɛc li̱th. Kä mi ɛ thuɔ̱k ɛn ɣöö /ka̱n naath jiɛc li̱th, kä /kenɛ Kritho jiɛc li̱th.",
+        "16": "Kä mi /ka̱n nɛy ti ci li̱w jiɛc li̱th, kä inɔ /ka̱n Kritho jiɛc li̱th.",
+        "17": "Kä mi /ka̱n Kritho jiɛc li̱th, ŋa̱thdun ɛ baŋ, kä ŋot yɛn rɛy dueerikun.",
+        "18": "Kä nɛy tin ci li̱w bä rɛy Kritho cikɛ dhiap.",
+        "19": "Kä mi ŋa̱thdan rɛy Kritho ɛ kui̱ teekä mɛmɛ kärɔa, kä ba par ni kɔn ɛlɔ̱ŋ kä ji̱ ɣɔaa ɛmɛ diaal.",
+        "20": "Kä kɛ thuɔ̱k ca Kritho jiɛc li̱th. Ɛ jɛn ram in nhiam mi nyooth ɣöö bi nɛy tëë ci li̱w rɔ jiɛc li̱th.",
+        "21": "Kɛ ɣöö ce̱tkɛ min bä lia̱a̱ kä ram kɛl, bi jiëc nath kɛ rɔ̱ li̱th ben kä ram kɛl bä.",
+        "22": "Kɛ ɣöö ci nɛy diaal li̱w kɛ A-dam, ba nɛy diaal jakä tëk kɛ Kritho.",
+        "23": "Kä ba ramɔ jiɛc kɛ gua̱a̱thdɛ, bi Kritho ben kɛ nhiam, kä kɛ bendɛ min rɛwdɛ ba nɛɛkɛ jiɛc li̱th.",
+        "24": "Kä ɛ jɛn bi guut ɣɔaa cu ben, mi wa̱a̱ Kuoth in la Gua̱a̱r in te nhial ka̱m kuäär, kɛ kɔr kä mi cɛ ruëëc diaal kɛnɛ buɔ̱mdiɛn däk.",
+        "25": "Kɛ ɣöö jɛn bɛ dhil ruëc amäni mi cɛ ji̱ tɛ̈rɛ diaal la̱th piny ciöknikɛ.",
+        "26": "Kä gua̱n tɛ̈r in jɔak in ba däk ɛ lia̱a̱.",
+        "27": "Kɛ ɣöö ca jɛ gɔ̱r i̱, “Kuoth cɛ ŋɔaani diaal la̱th piny ciöknikɛ.” Kä mëë wëë i̱, “Ŋɔaani diaal tekɛ piny ciöknikä,” kä jɔcɛ ɛn ɣöö /ci Kuoth in läth ŋɔaani diaal pinydɛ te thi̱n.",
+        "28": "Kä mëë ca ŋɔaani diaal la̱th pinydɛ, bi Gat ran puɔ̱nydɛ te piny raam ëë läth ŋɔaani diaal pinydɛ, kɛ ɣöö bi Kuoth a ti diaal kä ti diaal.",
+        "29": "Mi /ciɛ jɛn, lot naath ni ŋu mi lakɛ rɔ̱ kɛ kui̱ nɛɛnikiɛn ti ci li̱w? Mi /ca nɛy tin ci li̱w jiɛc, ɛŋu lakɛ naath ɔ kɛ kui̱diɛn?",
+        "30": "Kä ɛŋu lathnɛ rɔ̱ rɛy rikä gua̱thni diaal ɔ?",
+        "31": "Ɣän la li̱ewä ni ciaŋ, dämaari! Ɣän liakä rɔ kɛ kui̱dun liak mi latdä rɛy Kritho Yecu Kuääran.",
+        "32": "Kä mi cä nyiëëny kɛ ley dɔaar kɛ kui̱ kä tin ŋääth naath kɛ kä Ɛ-pɛ-thäth ɛŋu mi cä jek thi̱n? Mi /ca nɛy tin ci li̱w jiɛc li̱th, “Mi̱ethnɛ kä ma̱thnɛ kɛ ɣöö iruun banɛ li̱w.”",
+        "33": "A yɛ /ca mɛt, “Ja̱l kɛ̈ɛ̈l kɛ mäthni ti jiäk yärɛ ciɛŋ ti gɔw.”",
+        "34": "Luɔ̱nyɛ kä ca̱run in gɔaa, kä /cuarɛ duer lɛ nyɔk. Kɛ ɣöö tha̱a̱ŋ nath thilkɛ ŋäc Kuɔth. Latdä mɛmɛ kɛ kui̱ po̱cädun.",
+        "35": "Kä bi ram kɛl thiec i̱, “Jiackɛ nɛy tin ci li̱w i̱di? Kä bäkɛ kɛ puɔ̱ny mi te i̱di?”",
+        "36": "Ji̱n ram mi dɔ̱a̱r! Mɔ piithi mɔ /cɛ tëk ɛ ni mi cɛ kɔŋ riɔw.",
+        "37": "Kä ɛnɔ piithi mɔ /ciɛ jɛn bia puɔ̱ny ɔ, ɛ kuɛ̈ɛ̈ baaŋ dɔ̱ŋ ɛ manytap kiɛ beel dɔ̱diɛn.",
+        "38": "Kä Kuoth mocɛ jɛ puɔ̱ny ce̱tkɛ mi cɛ mɛk, kä mocɛ kuɛ̈ɛ̈ ɔ kɛ puɔ̱nydɛ pa̱ny.",
+        "39": "Kɛ ɣöö /ci ri̱ŋ diaal a kɛl, tëëkɛ ri̱ŋ kɛ kui̱ nath, kɛ kɛl kɛ kui̱ leyni, kɛ kɛl kɛ kui̱ din, kɛ kɛl kɛ kui̱ rɛc.",
+        "40": "Tëëkɛ pua̱ny nhial kä tëëkɛ pua̱ny piɛny. Kä gɔɔy pua̱a̱ny nhial ɛ kɛl, kä maan pua̱a̱ny piɛny ɛ mi dɔ̱ŋ.",
+        "41": "Maan ca̱ŋ ɛ kɛl, kä maan path ɛ mi dɔ̱ŋ, kä maan kuɛli ɛ göl. Kɛ thuɔ̱k te kuɛl kɛ dääk kɛ kuɛl in dɔ̱ŋ kɛ maan.",
+        "42": "Tëë thi̱n inɔ bä kɛ jiëc nɛɛni ti ci li̱w li̱th. Mɔ ca pith ɔ bɛ thil, kä mɔ ca jiɛc ɔ /cɛ bi thil.",
+        "43": "Piɛthkɛ jɛ rɛy thil luthä, kä jiackɛ jɛ rɛy luthä. Piɛthkɛ jɛ rɛy nyuänä, kä jiackɛ jɛ rɛy bumä.",
+        "44": "Piɛthkɛ jɛ kɛ puɔ̱ny ri̱eŋ, kä jiackɛ jɛ ɛ puɔ̱ny yieekä. Mi tekɛ puɔ̱ny ri̱eŋ, tëëkɛ puɔ̱ny yieekä bä.",
+        "45": "Kä ca jɛ gɔ̱r i̱, “Ram min nhiam ni A-dam, cɛ a ram mi tëk,” kä A-dam in jɔak yiëë mi ŋun tëk.",
+        "46": "Kä /ciɛ yiëë ɛ nëë nhiam, duundɛ ɣöö ɛ ri̱ŋ, cu yiëë kulɛ ben.",
+        "47": "Ram ëë jio̱l bëë piny, jɛn ɛ tur, kä ram in rɛwdɛ bëë nhial.",
+        "48": "Ce̱t ji̱ tuɔ̱ɔ̱r kɛ raan tuɔ̱ɔ̱r, kä ce̱t ji̱ nhial kɛ raan nhial.",
+        "49": "Ce̱tkɛ min ce̱t kɔn kɛ cät ran tuɔ̱ɔ̱r, kä banɛ cu tekɛ ta̱a̱ ran nhial bä.",
+        "50": "Ɣän la̱rä mɛmɛ yɛ, dämaari, ɛn ɣöö nɛy tin tekɛ ri̱ŋ kɛnɛ riɛm /cikɛ kuäär Kuɔth bi jek, kä nɛy tin bi thil /cikɛ mi /ci bi thil bi jek.",
+        "51": "Liɛŋɛ jɛ, ɣän la̱rä yɛ ruac mi cuäŋ naath. /Ci kɔn diaal bi li̱w, kä duundɛ ɣöö ba kɔn diaal loc,",
+        "52": "kɛ gua̱a̱th mi tɔt mi ce̱tkɛ nyuɔ̱p waŋ, kɛ kuɔ̱th kaaŋä min jɔak. Kɛ ɣöö bi kaaŋ röt, kä ba nɛy tin ci li̱w jiɛc a /cikɛ bi lɛ thil, kä ba kɔn cu loc.",
+        "53": "Kɛ ɣöö bi ta̱a̱ pua̱a̱ny ɛ bi thil ɛmɛ ta̱a̱ pua̱a̱ny mi /ci bi thil dhil la̱th, kä bi ta̱a̱ pua̱a̱ny ɛ dhiapɛ ta̱a̱ pua̱a̱ny mi /ci bi dhiap dhil la̱th.",
+        "54": "Mi wa ta̱a̱ pua̱a̱ny mi /ci bi thil la̱th wi̱i̱kä mi bi thil, kä ba ta̱a̱ pua̱a̱ny mi /ci bi dhiap la̱th wi̱i̱kä mi bi dhiap, ɛ jɛn inɔ bi min ca gɔ̱r cu tuɔɔk ɔ i̱, “Ca lia̱a̱ roc kɛ puɔ̱t.” 55 “Ji̱n lia̱a̱, guëthdu anikä? Ji̱n lia̱a̱, kacdu anikä?”",
+        "56": "Kac li̱eth ɛ duer, kä buɔ̱m dui̱rä ɛ ŋut.",
+        "57": "A liak tekɛ Kuoth mi mooc kɔn juc kɛ Kuääran ni Yecu Kritho.",
+        "58": "Kɛ kui̱ ɛmɔ, dämaari tin nhɔakä, cuɔ̱ŋɛ a bum, a yɛ /ca wany, la̱tdɛ ɛlɔ̱ŋ ni ciaŋ rɛy la̱t Kua̱r ni Yecu, kä ŋa̱cɛ jɛ ɛn ɣöö la̱tdun rɛy Kua̱r ni Yecu /ciɛ baŋ."
+      },
+      "headings": {
+        "1": {
+          "text": "Jiëc Kritho li̱th"
+        },
+        "12": {
+          "text": "Jiëcdan li̱th"
+        },
+        "35": {
+          "text": "Jiëc pua̱ny li̱th"
+        }
+      }
+    },
+    "16": {
+      "verses": {
+        "1": "Täämɛ kɛ kui̱ mucä kɛ nɛy tin ci Kuoth kɛ lɛy, guɔ̱ɔ̱rɛ ni duɔ̱ɔ̱p ëë ŋi̱i̱c ni ji̱ duëël Kuɔth kä Gä-lëë-cia.",
+        "2": "Kɛ cäŋ in jio̱l rɛy juɔkni diaal bi ramɔ kä yɛ duɔ̱ɔ̱r la̱th go̱lä, kä tɔ̱wɛ jɛ, ce̱tkɛ mi bi tekɛ rëp, kɛ ɣöö /ca muc bi lɛ dol mi wa̱a̱ ben.",
+        "3": "Kä mi wa̱a̱ cop, bä nɛy tin cia car ɛn ɣöö bi wä ja̱k kɛ warɛgak, kɛ ɣöö ba muckun naŋ kä Jɛ-ru-tha-lɛm.",
+        "4": "Mi cia jɛ car ɛn ɣöö bä wä bä, kä bikɛ rɔ̱ ma̱t ɣä.",
+        "5": "Ɣän bä yɛ ben gui̱l mi wa̱a̱ rët kɛ Ma-tha-do-nia, (kɛ ɣöö göörä rët kɛ Ma-tha-do-nia,)",
+        "6": "kä dɔ̱ŋ bä te kɛɛl kɛ yɛ, kiɛ bä mäy thuk, kɛ kui̱ kä ɣöö bia ɣä nam rɛy ja̱lä, guäthɔ wa̱a̱ thi̱n ɔ.",
+        "7": "Kɛ ɣöö /cä gui̱lun go̱r ɛn täämɛ, ɣän bakä ni yɛ. Ɣän göörä jɛ ɛn ɣöö bä jääny kɛ yɛ kɛɛl, mi nhɔk Kuäär ɛ.",
+        "8": "Kä ɣän bä te kä Ɛ-pɛ-thäth amäni Cäŋ kä jiɛn dhieec.",
+        "9": "Kɛ ɣöö ca ɣä lëp thi̱i̱k ɛlɔ̱ŋ kɛ kui̱ läätdä mi gɔaa, kä tëëkɛ löök ti ŋuan.",
+        "10": "Mi wä Ti-mo-thi wä ben, tiɛtdɛ jɛ ɛn ɣöö bɛ thil mi dualkɛ jɛ rɛydun, kɛ ɣöö lätdɛ ni la̱t Kua̱r ni Yecu ce̱tkɛ ɣä.",
+        "11": "Kä ɛnɔ, a thil ram mi caany jɛ. Namɛ jɛ dupdɛ kɛ mal, kɛ ɣöö derɛ ben kä ɣä. Kɛ ɣöö diɛɛwä jɛ ɛn ɣöö bɛ ben kɛnɛ dämaari.",
+        "12": "Kɛ kui̱ dämandan ni A-pɔ-löth, ɣän cä jɛ läŋ ɛlɔ̱ŋ ɛn ɣöö bɛ yɛ gui̱l kɛnɛ dämanikɔn tin kɔ̱kiɛn, kä duundɛ ɣöö /ken Kuoth ɛ nhɔk ɛn ɣöö bɛ ben kä yɛ ɛn täämɛ. Bɛ ben, mi wëë tekɛ gua̱a̱th.",
+        "13": "Niɛkɛ rɔ, cuɔ̱ŋɛ a bum rɛy ŋäthädun, a lo̱ckun bum, kä buɔ̱mɛ.",
+        "14": "La̱tdɛ lätkun diaal kɛ nhök.",
+        "15": "Täämɛ dämaari, ŋa̱cɛ jɛ ɛn ɣöö ji̱ gɔaal Thɛ-pa-näth kɛ kɛn nɛy tëë jio̱l tëë rietkɛ rɔ̱ dueeri kä A-ke-ya, kä cikɛ rɔ̱ ka̱m luäk nɛɛni tin ci Kuoth kɛ lɛy.",
+        "16": "La̱ŋä yɛ ɛn ɣöö bia rɔ̱ ka̱m luäk nɛɛni ti ce̱tkɛ tɔ̱, kɛ nɛy diaal tin lät kɛɛl kɛ kɛ.",
+        "17": "Ɣän tɛth lɔcdä kɛ ben Thɛ-pa-näth kɛnɛ Por-tu-na-täth kɛ A-ke-kuth, kɛ ɣöö cikɛ lät kɛ gua̱a̱thdun mëë ta̱yɛ jɔ̱ɔ̱r,",
+        "18": "kɛnɛ ɣöö cikɛ yiëëdä jakä gɔaa amäni yieykun. Inɔ ŋiɛcɛ nɛy ti ce̱tkɛ tɔ̱.",
+        "19": "Nërkɛ yɛ ɛ duël Kuɔth tin te kä E-cia. Nërkɛ yɛ ɛlɔ̱ŋ rɛy Kua̱r ni Yecu ɛ A-kui-lä kɛnɛ Pɛ-rith-ka, kɛɛl kɛ ji̱ duëël Kuɔth in te dhɔriɛn.",
+        "20": "Dämuɔɔri diaal nërkɛ yɛ. A ramɔ ner ramɔ kɛ ci̱em nho̱kä mi rɛl rɔ.",
+        "21": "Ner ɛmɛ gɔ̱ɔ̱rɛ ɣän Puɔl kɛ tetdä pa̱ny.",
+        "22": "Mi tëëkɛ ram mi thil nhök kɛ Kuäär, a jɛ lamkɛ. Kuäära, bër!",
+        "23": "A puɔ̱th Kua̱r ni Yecu tekɛ yɛ.",
+        "24": "A nhök tekɛ yɛn diaal rɛy Kritho Yecu. Inɔnɔ."
+      },
+      "headings": {
+        "1": {
+          "text": "Muc kɛ kui̱ ji̱ ŋäthä"
+        },
+        "5": {
+          "text": "Ca̱a̱p Puɔl"
+        },
+        "13": {
+          "text": "Ruac in jɔak"
+        }
+      }
+    }
+  }
+}

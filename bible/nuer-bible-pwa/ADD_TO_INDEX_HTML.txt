@@ -1,0 +1,22 @@
+1) Paste these lines inside <head> of your index.html (e.g., right after the <title> line):
+
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0F3B3A">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Nuer Bible">
+
+2) Paste this line just before </body> (after your existing </script>):
+
+<script>if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));</script>
+
+3) Put these files in the SAME folder as index.html (and your data/ folder, if you use one):
+   index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png,
+   icon-maskable-512.png, apple-touch-icon.png
+
+4) Upload the whole folder to any free HTTPS host (GitHub Pages, Netlify Drop, Cloudflare Pages).
+   Open the link on a phone:
+   - Android Chrome: menu ⋮ → "Install app" / "Add to Home screen"
+   - iPhone Safari: Share → "Add to Home Screen"
