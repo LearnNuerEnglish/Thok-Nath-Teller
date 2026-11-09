@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nuer games: Yiët and Luuth | Thok Nath</title>
+<meta name="description" content="Play traditional Nuer seed-sowing board games online: Yiët (4 rows of 13 pits) and Luuth (2 rows of 7 pits). Learn the rules, play the computer or a friend.">
+<link rel="canonical" href="https://thok-nath.vercel.app/games/">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#0e3a37">
+<meta property="og:title" content="Nuer games: Yiët and Luuth">
+<meta property="og:description" content="Traditional Nuer seed-sowing board games you can play on your phone.">
+<meta property="og:url" content="https://thok-nath.vercel.app/games/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@400;700&family=Outfit:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#1b1008;--panel:#2a1a0d;--text:#f6ecd2;--mute:#c5ad8a;--line:#f6ecd228;--gold:#f0b43c;--teal:#44b9ad;--wood:#7a4420;--pit:#150a03;--serif:"Gentium Book Plus",Georgia,serif;--sans:Outfit,system-ui,sans-serif;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:inherit;-webkit-tap-highlight-color:transparent}
+body{margin:0;background:radial-gradient(120% 80% at 50% 0,#3a2414,var(--bg));color:var(--text);font:400 1rem/1.6 var(--sans);min-height:100vh}
+a{color:inherit}
+.wrap{max-width:960px;margin:0 auto;padding:0 20px}
+.top{display:flex;justify-content:space-between;align-items:center;padding:16px 0}
+.top a{text-decoration:none;font-weight:600}
+.brand{font:700 1.3rem var(--serif)}
+h1{font:700 clamp(2rem,6vw,3.2rem)/1.1 var(--serif);margin:28px 0 10px}
+.lead{color:var(--mute);max-width:58ch;margin:0 0 34px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.game{display:flex;flex-direction:column;background:var(--panel);border:1px solid var(--line);border-radius:24px;overflow:hidden}
+.board{padding:18px;background:repeating-linear-gradient(95deg,#0000000f 0 3px,transparent 3px 11px),linear-gradient(135deg,#9a5c2e,var(--wood) 60%,#4a250d);display:grid;gap:5px}
+.board i{display:block;height:20px;border-radius:99px;background:radial-gradient(circle,var(--pit) 55%,transparent 58%) 0 0/var(--s) 100%;box-shadow:none}
+.y i{--s:7.6923%}.l i{--s:14.2857%;height:34px}
+.board i.a{filter:drop-shadow(0 0 4px var(--teal))}.board i.b{filter:drop-shadow(0 0 4px var(--gold))}
+.body{padding:20px 22px 24px;display:flex;flex-direction:column;gap:12px;flex:1}
+.game h2{font:700 1.8rem var(--serif);margin:0}
+.meta{color:var(--mute);font-size:.92rem;margin:0}
+.game ul{margin:0;padding-left:1.2em}.game li{margin:5px 0}
+.btn{align-self:flex-start;margin-top:auto;background:var(--gold);color:#2b1700;font-weight:600;text-decoration:none;padding:11px 24px;border-radius:99px}
+:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
+footer{padding:36px 0 44px;color:var(--mute);font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="top"><a class="brand" href="../">Thok Nath</a><a href="../#games">Back to site</a></div>
+<main>
+<h1>Nuer games</h1>
+<p class="lead">Two traditional seed-sowing board games, made for phones. Play the computer at three levels, or pass the device to a friend.</p>
+<div class="grid">
+
+<article class="game y">
+<div class="board" aria-hidden="true"><i class="a"></i><i class="a"></i><i class="b"></i><i class="b"></i></div>
+<div class="body">
+<h2>Yiët</h2>
+<p class="meta">2 players · 4 rows of 13 pits · 52 seeds each</p>
+<ul>
+<li>Pick one of your pits with two or more seeds and sow them around your two rows.</li>
+<li>If your last seed lands in a pit that already has seeds, you take them all and keep sowing.</li>
+<li>In the main game, ending in your inner row captures both opposite pits, and you sow the winnings.</li>
+<li>The first two turns are practice turns with no captures. You lose when you cannot move.</li>
+</ul>
+<a class="btn" href="yiet.html">Play Yiët</a>
+</div></article>
+
+<article class="game l">
+<div class="board" aria-hidden="true"><i class="a"></i><i class="b"></i></div>
+<div class="body">
+<h2>Luuth</h2>
+<p class="meta">2 players · 2 rows of 7 pits · 1 seed per pit</p>
+<ul>
+<li>Each player first moves one seed from their side to any pit.</li>
+<li>Then choose a pit and a direction, left or right, and sow one seed per pit.</li>
+<li>If your last seed lands alone in your own empty pit, you capture the seeds in the pit opposite.</li>
+<li>When one side runs out, each player keeps the seeds left on their side. Most seeds wins.</li>
+</ul>
+<a class="btn" href="luuth.html">Play Luuth</a>
+</div></article>
+
+</div>
+</main>
+<footer>Games are free to play in your browser. Add Thok Nath to your home screen from the main site to play offline-style like an app.</footer>
+</div>
+</body>
+</html>
